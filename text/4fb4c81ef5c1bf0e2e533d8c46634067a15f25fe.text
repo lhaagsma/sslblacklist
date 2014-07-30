@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 14093059046858838385 (0xc3949a88eea05171)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=vic, L=melbourne, O=mel ag , OU=it, CN=ckytiqfles.com/emailAddress=info@ckytiqfles.com
+        Validity
+            Not Before: May 31 14:45:06 2014 GMT
+            Not After : May 31 14:45:06 2015 GMT
+        Subject: C=AU, ST=vic, L=melbourne, O=mel ag , OU=it, CN=ckytiqfles.com/emailAddress=info@ckytiqfles.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:fa:f4:c2:d6:62:21:d8:fe:3b:43:63:17:5b:b3:
+                    21:81:3d:3b:77:88:87:52:16:c6:35:01:33:69:4d:
+                    8a:fc:23:e6:1e:51:51:4f:60:f4:43:53:16:a5:42:
+                    6c:90:6a:f5:76:b1:66:43:14:86:1a:77:5d:5e:a2:
+                    3c:ab:60:64:dc:98:e5:56:e1:1d:cc:39:4a:fe:f5:
+                    02:64:07:b0:1e:37:1c:2a:72:81:e6:79:fc:b6:8d:
+                    b2:84:11:2b:73:6f:21:8e:79:60:dd:de:7a:77:82:
+                    47:39:3a:1a:49:e7:ee:16:44:b1:3d:46:8e:5f:b8:
+                    01:9c:77:6c:c3:48:14:b0:d7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         2a:69:57:45:04:32:ff:d2:a2:bd:73:dd:c3:7e:88:29:11:7c:
+         48:f2:a7:b5:41:f8:04:44:c1:29:ce:6a:e2:44:b8:ad:45:e6:
+         a9:9f:80:3c:f0:ed:17:a9:a3:88:15:92:9c:8c:90:64:2c:bc:
+         01:80:8b:3f:42:02:e8:ef:cf:c0:cc:13:e8:a5:f9:29:c8:73:
+         8f:7f:42:55:cb:24:4a:a0:1d:c5:5d:aa:f8:0d:20:b9:0a:ae:
+         f6:ca:7f:a2:3c:72:0b:0b:73:5d:c0:82:21:a3:9c:ad:eb:03:
+         5d:d2:91:c7:d1:1e:07:a2:92:c0:f5:a8:2d:34:fa:9a:2c:74:
+         11:8a

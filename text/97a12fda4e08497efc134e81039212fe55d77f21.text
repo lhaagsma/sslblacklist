@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 16745186114430760755 (0xe862da0d2072f733)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=California
+        Validity
+            Not Before: May 20 18:10:29 2014 GMT
+            Not After : Mar  3 18:10:29 2288 GMT
+        Subject: C=US, ST=California
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d4:b4:61:52:50:6c:f4:73:fc:f3:d0:5b:99:4d:
+                    f0:70:27:40:77:eb:8d:86:d0:f8:c3:06:47:ca:38:
+                    ca:d6:9f:38:f6:a8:69:c5:88:ff:e8:7c:8f:8c:63:
+                    c9:ae:d4:13:cf:af:75:b9:a8:46:55:ba:27:ff:c2:
+                    33:73:a1:d9:29:e0:d7:09:fc:63:b5:7a:67:4c:eb:
+                    74:db:2a:3b:2b:91:a8:57:77:b1:47:ec:e1:8b:ee:
+                    ae:ea:c4:29:82:e6:af:2d:f4:c1:d7:62:10:7d:bf:
+                    01:bb:52:cf:02:94:11:52:1d:eb:a4:af:9f:45:81:
+                    4a:be:08:87:e3:8d:ef:3b:93
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         17:cf:8d:ce:cc:c1:b8:2f:54:30:3e:71:e5:15:5e:f7:f2:4a:
+         bd:cc:c6:fb:58:b2:94:e4:60:71:0e:97:71:ab:03:82:cc:44:
+         4b:c3:0d:b2:21:f0:43:d3:aa:e8:a6:a1:34:6f:5f:ec:26:ed:
+         8d:68:a8:6d:c2:b2:df:f6:e8:28:4b:ed:50:c6:78:ba:f4:b3:
+         6f:a8:19:30:d2:53:53:de:d7:77:ee:fb:34:ee:04:9d:71:a8:
+         8c:02:4a:fc:dc:7f:61:a4:3e:a3:07:81:c2:d6:7d:56:9e:f7:
+         39:28:bc:a6:2c:4f:21:fc:c7:db:75:0c:5d:fe:f7:7c:4a:91:
+         e2:03

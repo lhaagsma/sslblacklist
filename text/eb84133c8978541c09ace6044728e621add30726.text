@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 14740836476693268001 (0xcc91f8acdd6c4621)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Yorks, L=York, O=MyCompany Ltd., OU=IT, CN=localhost
+        Validity
+            Not Before: Jul  7 23:22:08 2014 GMT
+            Not After : Jul  6 23:22:08 2016 GMT
+        Subject: C=GB, ST=Yorks, L=York, O=MyCompany Ltd., OU=IT, CN=localhost
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d5:e9:0a:39:5e:20:4a:53:55:ef:9c:34:04:aa:
+                    a7:22:2c:aa:08:26:7c:7b:49:15:43:1d:02:21:11:
+                    be:4a:3f:24:a4:79:aa:17:81:56:fe:88:0a:23:4a:
+                    a2:34:db:e1:a5:b8:74:6f:eb:87:d9:c0:98:13:5b:
+                    66:ab:8a:ff:ec:af:29:77:be:56:94:d7:2f:dc:68:
+                    96:07:40:15:35:bd:51:07:46:38:55:5d:6a:2c:36:
+                    e0:b0:22:1e:f0:48:a2:1c:02:a7:40:b4:ae:ac:83:
+                    b0:c4:83:69:a9:42:08:3b:0f:ea:78:52:23:b4:b7:
+                    04:7e:3d:74:b0:f3:c4:b0:8c:7a:b2:45:77:e8:9a:
+                    13:f4:3c:c2:96:59:94:d6:48:18:f3:a4:9a:d8:62:
+                    9a:65:f7:a2:91:cb:dc:71:03:1e:b4:cc:d2:12:0c:
+                    13:27:29:7d:7e:23:cb:18:76:0d:db:c4:df:b5:bd:
+                    ad:6b:18:1f:00:b6:39:60:af:71:94:29:44:67:6f:
+                    e2:cf:0f:66:cc:51:55:26:0a:bb:0c:fa:cf:a2:f1:
+                    1e:92:10:ed:d9:c5:cf:94:b4:75:21:2d:f1:ff:c3:
+                    72:b1:86:b4:8c:e0:dc:f3:0f:14:43:15:26:fe:d1:
+                    ba:15:34:ec:64:96:72:5c:c5:ed:80:b1:85:7b:e7:
+                    8a:75
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         88:5b:64:45:3c:11:ea:fe:05:ce:a7:04:ec:e0:e5:c7:7c:8b:
+         96:63:bd:d4:cb:30:b2:b8:6b:a0:4a:e8:f9:aa:89:91:12:7a:
+         b1:5d:aa:9e:27:ca:ce:95:25:58:75:8c:63:d5:21:9f:1c:e5:
+         5b:12:22:d1:66:07:14:d1:7e:16:ab:17:e0:bc:8a:d2:c8:20:
+         8e:85:ac:a2:37:14:8c:26:b3:8e:8c:46:c8:9c:cf:7a:28:33:
+         99:21:06:99:a4:00:82:28:a9:a2:c7:2b:88:d5:3b:cc:f5:20:
+         1e:e6:34:2a:07:4e:d7:12:75:15:7d:5a:77:b8:96:89:c4:5f:
+         b9:06:26:39:bb:eb:18:a3:2d:1f:59:ab:99:5a:19:08:c8:4a:
+         77:87:df:19:36:ef:d0:e4:66:6e:df:f8:10:34:99:70:76:69:
+         ee:1e:49:5f:19:b7:e9:d7:15:ac:20:46:09:30:a5:f1:20:0c:
+         ea:4f:a2:22:fb:a6:a9:cf:10:85:ff:e8:13:ea:33:fa:c5:6a:
+         07:3c:44:48:f5:b7:b3:58:f6:ef:82:a8:c3:56:51:ab:c1:73:
+         b2:b0:e0:23:11:fe:88:03:de:87:d9:6c:44:0b:86:a1:60:6c:
+         a4:cf:5e:50:07:99:91:dc:ac:ce:78:17:29:05:2f:37:9e:ed:
+         17:d2:d3:4e

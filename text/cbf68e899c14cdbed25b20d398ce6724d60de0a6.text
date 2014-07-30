@@ -1,0 +1,52 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 15913167740076044772 (0xdcd6edbf7e7031e4)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=XX, ST=XX, L=XX, O=XX, OU=XX/emailAddress=webmaster@kin.pgsox.cc, CN=kin.pgsox.cc
+        Validity
+            Not Before: Feb 15 13:39:05 2014 GMT
+            Not After : Feb 13 13:39:05 2024 GMT
+        Subject: C=XX, ST=XX, L=XX, O=XX, OU=XX/emailAddress=webmaster@kin.pgsox.cc, CN=kin.pgsox.cc
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ad:92:bf:65:e9:b6:53:4e:de:3b:6b:14:6e:ad:
+                    8b:26:68:09:0c:54:ac:00:15:f5:98:44:dc:6a:81:
+                    e0:86:ce:eb:79:8c:2e:82:36:1a:37:9d:67:69:92:
+                    e5:a5:6b:1f:04:c6:f0:53:ee:4a:16:19:6c:73:bf:
+                    ac:fe:f5:03:d9:fd:2e:ba:22:b5:d9:54:f5:e2:03:
+                    4e:ed:12:80:72:cb:96:3b:09:c4:e9:d4:9d:ab:16:
+                    d3:d7:65:de:37:f9:e6:90:48:e1:e0:78:3b:dd:f9:
+                    d5:20:1c:d3:d3:b2:a9:56:43:cb:f2:1f:0d:a0:db:
+                    14:51:ea:13:6a:d1:48:b6:17:0c:b3:96:75:ef:1b:
+                    20:49:48:7d:e3:bb:e0:40:55:b8:a9:8e:ee:86:ff:
+                    ef:88:d7:fe:dc:70:2b:a4:fb:22:dd:c8:da:bb:90:
+                    53:65:f1:f7:1a:79:10:66:5d:d3:b9:57:d6:27:69:
+                    d4:ae:53:d8:d0:72:f0:2c:f4:3c:27:2c:12:74:1a:
+                    c7:2f:69:51:36:c3:d9:cb:81:98:a3:e2:51:f7:8b:
+                    f0:13:68:7c:62:6d:8c:e4:a9:31:a9:12:5a:a1:f1:
+                    b4:4d:38:37:89:34:97:78:96:fe:66:76:6d:0b:ce:
+                    f7:0f:02:ed:91:3d:a8:08:f3:65:18:63:63:52:2d:
+                    08:1b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:kin.pgsox.cc, DNS:www.kin.pgsox.cc
+    Signature Algorithm: sha1WithRSAEncryption
+         7f:0c:3d:75:54:93:c2:7e:7e:8c:29:cc:7f:a2:98:92:00:a5:
+         39:2d:53:6e:f5:25:55:52:d8:65:f6:9b:50:bc:1e:3f:26:93:
+         b8:03:9a:d1:64:4b:6b:b2:be:62:57:30:65:14:1d:82:2c:a9:
+         38:ce:cd:fb:84:e4:3b:04:8d:de:88:cc:6a:47:e9:18:e4:8b:
+         fd:47:b3:3a:56:9d:41:dc:18:c4:3c:62:73:dd:cb:96:14:1c:
+         f0:b0:32:04:19:f9:0e:55:0d:22:fa:a0:49:18:df:02:7d:02:
+         9a:6c:11:32:db:ca:6b:88:42:3d:bb:a4:4b:08:16:07:56:32:
+         ae:2b:1d:27:36:be:ff:d6:77:c4:30:34:6d:11:09:95:17:95:
+         eb:03:5a:c9:43:b2:b2:15:7f:fd:7b:19:65:81:8c:b4:c1:02:
+         b3:05:ae:fb:2e:ed:cb:13:be:e1:cc:c6:48:31:bd:25:36:59:
+         81:e5:1c:c3:36:de:be:73:1b:74:12:35:ac:ef:b0:4c:8f:3d:
+         0c:2c:eb:81:1a:22:ef:12:5a:77:f6:4c:90:ab:23:23:e3:c8:
+         78:e7:34:67:53:a4:f2:60:76:bd:00:16:61:1f:2f:20:a5:1f:
+         00:6a:30:8d:d8:5e:6c:07:58:c3:ad:4d:65:e3:2c:65:ed:b5:
+         e1:2b:ed:ed

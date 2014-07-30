@@ -1,0 +1,78 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            91:f8:09:5b:b5:fe:e9:d9:7e:6a:57:ef:c2:81:e3:e1
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=EssentialSSL CA
+        Validity
+            Not Before: May 20 00:00:00 2014 GMT
+            Not After : Aug 18 23:59:59 2014 GMT
+        Subject: OU=Domain Control Validated, OU=Free SSL, CN=bitcoin-beta.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ea:c7:71:84:3e:9f:cc:d8:d2:95:7d:93:4a:bb:
+                    59:80:9b:0d:64:88:f2:cd:7f:f6:cb:b4:62:81:4e:
+                    9e:84:2a:de:a1:ba:a4:74:24:89:55:29:2e:96:5c:
+                    03:da:99:7f:13:ce:ad:c3:a1:e7:1f:fe:83:df:f0:
+                    34:86:e2:5c:a5:f4:a1:e1:42:39:e2:44:8f:d5:03:
+                    8c:6c:16:11:0b:d3:a3:de:7f:7c:e5:8d:89:0c:36:
+                    ef:00:9b:07:be:15:95:3f:70:fb:ec:a7:3e:a4:25:
+                    45:3c:de:eb:a0:31:b3:30:bc:fa:ba:b3:b8:2e:a1:
+                    fb:7e:bb:f3:02:f1:5b:a3:a2:ce:27:03:98:8b:1f:
+                    29:ee:9c:71:8e:20:ee:ae:74:4f:f3:ba:68:25:0d:
+                    8b:10:bc:9d:c3:2c:32:fb:aa:94:05:3f:49:b8:b5:
+                    51:7f:bf:16:db:9c:42:af:62:30:fe:3d:29:c9:ab:
+                    fe:eb:d2:c4:1b:d5:ec:1a:7a:c4:9e:d0:53:15:c6:
+                    14:5f:ea:b5:31:ff:9e:9a:4e:c7:0a:41:7f:74:69:
+                    ca:69:73:f3:f1:98:9d:da:c9:53:d4:c1:0e:d9:59:
+                    17:db:ac:df:01:e1:ea:0e:61:b2:9f:79:c4:3d:52:
+                    3c:46:bb:d3:d5:b8:90:98:95:ed:e2:c0:76:98:97:
+                    dc:3d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:CB:EA:AD:5B:08:5D:CC:FF:FC:26:54:CE:49:E5:55:C6:38:F4:F8
+
+            X509v3 Subject Key Identifier: 
+                92:A3:5D:5C:B4:3C:0E:83:D9:60:A0:C7:FC:F4:83:66:A6:C9:05:39
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/EssentialSSLCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/EssentialSSLCA_2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:bitcoin-beta.com, DNS:www.bitcoin-beta.com
+    Signature Algorithm: sha1WithRSAEncryption
+         4a:dc:2f:fc:60:68:8c:4e:d4:8c:96:a9:07:d8:96:a3:4e:47:
+         80:fa:01:f5:1e:7c:62:c1:1e:8c:b7:49:85:e5:26:b9:41:62:
+         a7:6f:f7:ba:ff:a7:49:06:a5:1b:b0:d8:10:c4:80:e3:58:94:
+         88:de:7f:f7:e8:ad:98:e4:b8:21:11:00:96:a9:33:b8:9b:f0:
+         a8:7a:c6:ed:2d:28:0f:a8:8e:11:74:21:04:bc:fb:12:c5:c1:
+         88:7a:1c:80:74:4b:c0:a4:39:75:f4:89:3f:f7:17:69:4f:65:
+         0c:30:7b:c7:21:1a:03:21:4b:96:70:02:8f:86:46:7e:74:a3:
+         6b:08:f7:6b:d8:ea:2c:f1:2e:bf:46:d3:56:48:ef:69:de:b5:
+         88:af:1b:e8:9e:99:8f:69:c2:c5:94:ad:06:fe:4b:f9:e6:fc:
+         2d:27:d3:f6:ca:06:49:68:eb:81:18:e4:55:5d:1d:5e:b7:32:
+         86:be:57:06:d3:c0:84:23:05:28:0a:d4:0d:d6:47:c1:0f:f0:
+         c9:a0:6f:63:dc:f8:62:32:7e:19:1f:1f:a0:f9:d8:13:38:d0:
+         7a:19:e0:3b:b0:52:31:24:5b:d0:29:42:e1:1d:87:11:af:7c:
+         c1:82:83:d6:54:4b:d1:08:20:ca:69:b2:1f:8c:d0:c7:22:71:
+         b5:92:10:60

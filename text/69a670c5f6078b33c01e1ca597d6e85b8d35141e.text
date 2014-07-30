@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 18375372139894129564 (0xff026f9ab5ffc39c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd
+        Validity
+            Not Before: Apr 20 19:34:39 2014 GMT
+            Not After : Sep  4 19:34:39 2041 GMT
+        Subject: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bd:98:66:77:3d:2e:cf:86:94:8b:cf:b9:51:4d:
+                    c4:52:29:15:db:19:90:c2:4d:c1:b2:a3:32:dd:1d:
+                    67:1a:4a:d3:a8:da:6d:2d:11:10:85:a7:89:3a:63:
+                    a2:4c:5e:bd:e8:00:10:44:a1:ab:60:39:1a:0d:4e:
+                    c9:a3:03:62:2e:08:ff:38:94:c7:22:69:62:6b:6d:
+                    87:15:99:dc:f4:6c:04:cb:ef:1c:e0:77:7c:e4:85:
+                    b8:a0:2f:50:ab:09:9d:cb:02:26:59:4d:a1:08:5c:
+                    50:6a:07:50:94:2d:62:0f:06:1e:42:7d:21:b9:0f:
+                    18:9c:e2:0e:de:c6:9e:2d:0d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         13:d7:82:71:a1:87:28:1a:b5:02:04:b8:4f:f0:88:18:0c:ff:
+         68:12:8e:f5:eb:5a:0e:dc:df:a4:99:45:55:f1:fa:1b:69:5b:
+         05:75:c5:20:1d:c5:65:11:9b:3f:b7:9b:e0:20:26:40:1f:46:
+         5c:26:23:aa:5b:41:b7:fe:60:02:40:9c:88:41:41:5a:b9:bc:
+         0e:02:74:dc:4e:23:4f:8a:44:3b:94:19:0c:d8:50:e9:65:a2:
+         54:97:d2:95:72:71:7e:bf:9a:f6:88:a1:8f:40:dd:22:f7:26:
+         1d:70:e8:33:07:75:34:db:2c:3a:00:ff:7b:2b:c6:78:64:61:
+         12:c6

@@ -1,0 +1,78 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            b8:99:45:87:d6:46:63:f6:3f:cc:df:02:90:63:fd:22
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=EssentialSSL CA
+        Validity
+            Not Before: May 21 00:00:00 2014 GMT
+            Not After : Aug 19 23:59:59 2014 GMT
+        Subject: OU=Domain Control Validated, OU=Free SSL, CN=slksecurity.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cb:c9:c8:f7:cb:77:00:c9:bb:f1:c8:74:1d:74:
+                    7f:bc:e8:6a:9e:0a:04:38:e7:f8:1d:48:3a:2d:a9:
+                    81:b3:94:a3:cf:fa:85:0e:e3:d1:d4:8d:82:c1:04:
+                    4a:ce:01:84:7a:2e:d1:b4:39:d4:44:bc:42:c8:1a:
+                    52:e6:de:71:a7:e4:b8:cd:d6:00:21:a6:dd:86:4c:
+                    63:af:ea:25:9f:c9:29:6f:27:42:42:ea:04:48:ef:
+                    05:76:82:07:59:fa:3b:48:fd:4a:2a:18:80:96:60:
+                    9d:d9:54:86:f0:82:b9:0e:60:69:63:17:02:57:a4:
+                    c0:2d:82:19:9f:19:48:45:dc:10:91:60:1c:3b:08:
+                    b0:38:fc:0d:6a:ed:86:4f:5a:77:d0:ad:ac:9c:a2:
+                    b8:98:3f:ec:4a:a3:72:7e:cd:9a:46:a0:d9:d2:a6:
+                    8c:d1:1a:62:c5:c7:7e:67:71:06:2a:e6:ce:bc:db:
+                    c4:4a:21:5a:75:c2:47:6e:70:07:6c:1f:ab:ae:c7:
+                    2f:63:76:f2:fd:87:d7:e5:cd:77:63:62:1b:9f:02:
+                    67:3b:15:12:c2:cc:f9:2a:0a:fa:73:76:5e:ad:e6:
+                    d2:ea:05:5e:c2:c7:62:e8:5c:68:71:82:be:13:82:
+                    35:a0:16:bb:48:ba:90:0a:da:0f:78:7c:0e:f6:89:
+                    48:fd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:CB:EA:AD:5B:08:5D:CC:FF:FC:26:54:CE:49:E5:55:C6:38:F4:F8
+
+            X509v3 Subject Key Identifier: 
+                F5:9A:BD:0A:D9:28:B1:43:94:7D:84:C6:DD:53:6D:65:EF:60:10:23
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/EssentialSSLCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/EssentialSSLCA_2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:slksecurity.com, DNS:www.slksecurity.com
+    Signature Algorithm: sha1WithRSAEncryption
+         66:ca:bd:e6:5e:9b:27:2a:08:ef:33:81:4c:6d:11:61:b6:a3:
+         0c:aa:7d:13:ad:d1:82:4f:c8:09:82:fe:56:f5:d1:8f:25:55:
+         9d:60:5e:55:b8:55:72:a6:32:a0:d8:df:b0:05:a2:8b:1a:c8:
+         60:29:9f:e8:fa:d6:7c:34:27:28:2d:b1:a8:48:1a:b3:27:9e:
+         55:19:22:b3:f0:85:c7:5f:c0:62:1d:01:d7:54:a4:e2:94:fc:
+         44:42:f1:d3:38:38:dc:9a:da:e1:00:32:a9:26:7d:58:7b:43:
+         4d:44:c2:dd:1f:29:b1:c4:cd:e9:70:d2:ac:71:ec:00:cc:16:
+         c9:23:3b:c4:77:82:19:a6:b8:df:18:2f:3e:ec:99:f7:71:8f:
+         eb:bf:b2:10:8c:2f:95:92:8e:7d:81:d4:ee:bf:5a:6a:3d:de:
+         37:e4:d8:c6:e6:a8:96:f0:aa:79:77:26:6e:54:c8:cc:2f:af:
+         4f:eb:84:9f:93:9d:e8:c2:f0:ec:3d:c1:38:5d:bd:3e:4c:2b:
+         4a:fd:8f:54:4e:20:0d:14:62:88:83:12:27:12:9f:e4:ad:df:
+         9d:9b:84:6c:3d:a8:8f:3c:b2:d1:ae:98:f8:e8:17:0c:69:9a:
+         9f:1b:10:23:c8:4d:f2:11:43:b0:d5:7d:05:99:90:29:02:e1:
+         a0:78:21:de

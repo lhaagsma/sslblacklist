@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 12415230920024666645 (0xac4bc2be38843215)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=XX, L=Default City, O=Default Company Ltd
+        Validity
+            Not Before: Nov  8 09:27:22 2013 GMT
+            Not After : Nov  8 09:27:22 2014 GMT
+        Subject: C=XX, L=Default City, O=Default Company Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ca:06:24:d3:bd:93:58:c1:82:cb:36:ca:56:26:
+                    32:5a:33:84:2b:fb:01:ec:77:19:2a:37:dd:e1:9e:
+                    37:91:ef:48:57:8d:14:e8:92:b8:f3:4a:33:d5:bb:
+                    bd:a1:07:3a:af:5e:6e:12:b6:38:f2:b1:29:6d:d1:
+                    89:c6:76:46:23:78:04:cb:45:9e:da:1a:69:44:19:
+                    4f:3f:ee:53:df:54:ce:25:61:0b:b6:6d:83:24:66:
+                    84:4c:73:d4:4e:bd:c8:8b:72:6d:46:62:bd:36:21:
+                    35:62:25:45:0e:15:89:86:33:24:f7:49:b9:a4:50:
+                    10:74:94:17:a1:08:45:bc:57
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         92:9a:df:1c:05:af:09:0c:f3:55:21:e1:fa:c7:54:1f:76:9e:
+         46:02:f7:48:7d:40:63:fa:20:92:d1:62:01:5b:b3:4c:5a:a2:
+         ea:94:53:1f:a4:81:63:02:32:ed:3b:2f:bf:41:6d:9e:8b:cf:
+         1e:93:84:f3:1a:22:7c:3a:09:19:be:92:41:df:82:c6:d4:44:
+         b7:0d:95:29:5e:b5:54:a6:ef:6c:30:d5:d7:02:52:ec:4c:17:
+         12:f3:ce:91:6c:3f:76:7d:d7:0e:04:f7:46:17:d0:8e:6c:b9:
+         24:53:83:23:4b:fc:34:86:17:6d:fd:68:c5:36:21:b1:95:1a:
+         a2:be

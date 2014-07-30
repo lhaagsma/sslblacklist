@@ -1,0 +1,43 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 16258861378767404630 (0xe1a31447e5bfbe56)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd
+        Validity
+            Not Before: Jun 22 17:20:11 2014 GMT
+            Not After : Oct  1 10:51:55 1905 GMT
+        Subject: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d1:90:02:6b:41:2f:96:24:42:ba:8c:b7:0c:20:
+                    98:8f:4a:5b:b7:2e:f0:3d:4f:7f:e4:6f:29:45:bc:
+                    3e:25:25:2d:6c:ed:68:61:ea:9e:06:08:b6:82:3a:
+                    5d:c3:7a:6c:bc:c1:f5:20:93:81:3c:7f:98:21:53:
+                    7f:1c:ef:f1:ac:1a:c0:19:2a:e6:dc:ea:8f:77:b8:
+                    e4:15:15:ce:96:e0:c7:8c:ad:be:c7:c0:da:a3:28:
+                    e1:76:c6:67:97:6c:7d:b6:4f:a5:ee:33:73:81:b8:
+                    b3:da:21:d5:7b:3c:a3:2f:b8:48:68:2a:0f:0c:49:
+                    12:60:a8:d6:6e:9a:d9:29:1d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                C9:7D:DF:6C:04:51:0B:5F:44:28:F1:29:35:36:00:2F:AD:17:15:96
+            X509v3 Authority Key Identifier: 
+                keyid:C9:7D:DF:6C:04:51:0B:5F:44:28:F1:29:35:36:00:2F:AD:17:15:96
+                DirName:/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd
+                serial:E1:A3:14:47:E5:BF:BE:56
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         03:96:fb:ef:95:78:68:49:87:5e:e4:ff:65:ac:ac:de:b5:fd:
+         91:2d:b9:6d:36:0c:80:74:ac:9c:6e:80:c7:2d:cd:40:16:be:
+         dc:b2:4e:73:cb:8c:02:fe:f8:85:9d:76:2e:3c:f9:a6:0b:7c:
+         e0:f7:b4:43:e0:24:e1:3e:a8:5d:fd:21:73:a9:be:3c:33:c6:
+         c3:0b:34:01:bb:56:bd:86:ad:b2:81:01:59:a4:7b:55:bc:f0:
+         28:00:f7:26:da:59:52:5f:4b:38:7a:f7:3f:96:80:13:bf:a3:
+         be:34:0f:61:42:67:db:43:0b:4e:7f:65:74:64:01:a8:1f:74:
+         45:84

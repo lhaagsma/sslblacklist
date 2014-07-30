@@ -1,0 +1,47 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 659481339 (0x274ee2fb)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=FL, L=pFxgAAHkIxXrnZJC, O=rBTphMhoMczPWvStvVSyWVqHaiWog, CN=6demrzf.h.ndv3w.zfxtiornef.org
+        Validity
+            Not Before: Jun 17 10:53:55 2014 GMT
+            Not After : Jul 17 20:53:55 2014 GMT
+        Subject: C=US, ST=AZ, L=nNhFqwFVYVgYfaF, O=CvZpJBxinSwsBFPAgCJkP, CN=jpyjcy0qmd.gov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b0:3b:0e:03:f4:b2:b8:f4:c5:58:66:c4:62:8b:
+                    33:9b:f6:98:9a:59:2b:a4:49:99:d4:ab:77:b3:db:
+                    82:3f:aa:51:b6:ac:91:28:49:20:9c:ff:ea:76:23:
+                    40:28:d8:b1:96:44:4a:bf:b9:67:eb:65:b7:56:41:
+                    19:f7:fb:d9:ca:8c:8c:42:0c:dc:ff:52:25:97:44:
+                    0c:70:3c:03:19:46:93:b7:78:d2:e9:3b:a5:84:ea:
+                    d3:0a:1d:33:13:be:bf:7a:cf:51:86:b2:b6:0a:00:
+                    82:41:5a:e8:ed:43:aa:a1:15:dd:dd:2a:dd:e8:fd:
+                    c2:e3:ab:37:19:5b:39:b8:b1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                6E:68:87:93:29:DC:66:05:5D:C4:28:60:EA:8D:D3:CC:9F:63:9E:DF
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment, Data Encipherment
+            X509v3 Authority Key Identifier: 
+                keyid:6E:68:87:93:29:DC:66:05:5D:C4:28:60:EA:8D:D3:CC:9F:63:9E:DF
+                DirName:/C=US/ST=FL/L=pFxgAAHkIxXrnZJC/O=rBTphMhoMczPWvStvVSyWVqHaiWog/CN=6demrzf.h.ndv3w.zfxtiornef.org
+                serial:27:4E:E2:FB
+
+    Signature Algorithm: sha1WithRSAEncryption
+         94:87:19:c3:86:d1:1a:88:76:55:4e:f7:84:ac:09:91:a1:9d:
+         30:20:d1:3d:45:1e:89:50:3d:62:46:a8:a9:4c:d3:0f:00:74:
+         d1:7f:9e:99:e5:73:c5:ec:1f:58:ea:69:f7:14:98:d8:6c:3d:
+         d8:bd:b7:bf:64:8e:b7:2a:4f:80:ef:04:94:da:d8:af:e2:e4:
+         8f:46:7f:c4:73:44:d5:a3:f4:43:ba:6d:0e:cd:0b:c0:a9:12:
+         90:56:60:5e:d4:12:80:af:e8:60:7f:60:3c:dd:c6:58:c0:a6:
+         2f:90:d0:01:27:4e:05:a6:a2:0a:ed:5f:60:41:6a:d2:f7:a6:
+         04:20

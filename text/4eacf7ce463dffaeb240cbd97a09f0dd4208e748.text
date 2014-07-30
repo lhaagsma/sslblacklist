@@ -1,0 +1,78 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            5f:3a:e6:23:23:12:c7:94:ce:56:b3:b2:11:c1:c2:e7
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=EssentialSSL CA
+        Validity
+            Not Before: Jun 30 00:00:00 2014 GMT
+            Not After : Sep 28 23:59:59 2014 GMT
+        Subject: OU=Domain Control Validated, OU=Free SSL, CN=billing-service.ru
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cb:26:2d:e7:e6:0d:93:d4:92:0d:58:3d:bb:5c:
+                    ea:55:6d:ba:80:eb:c0:de:a4:6b:8e:c0:81:e8:85:
+                    37:45:3a:df:c5:9e:9a:c5:2f:a6:7b:ad:f0:ea:a3:
+                    74:33:f7:22:d3:a2:6c:13:84:78:ca:94:7f:70:b0:
+                    db:dc:ce:21:0d:6b:95:d6:9e:75:73:50:73:e0:9c:
+                    8e:a6:aa:46:01:24:c9:27:51:b7:61:dc:9e:62:94:
+                    77:a8:2f:fc:47:c7:df:e1:bc:80:2f:62:3b:72:0a:
+                    a3:50:a4:23:a4:eb:a1:06:b9:02:ff:8f:0c:f8:54:
+                    9b:78:1c:08:6f:d4:88:25:f7:8f:cc:f9:61:a1:1b:
+                    42:ca:31:1f:dd:21:f3:9a:c2:42:d8:c9:91:cd:0b:
+                    60:a2:5b:f7:0c:11:b2:51:a8:98:f6:a5:a6:b9:af:
+                    dc:b4:97:1b:bc:2e:42:4e:19:db:65:d1:d5:08:4b:
+                    3f:15:1b:43:9d:00:5d:d8:86:09:b3:59:21:89:e8:
+                    2c:17:4e:09:17:25:33:99:67:bb:61:67:72:c8:f6:
+                    87:88:29:11:19:44:8c:0f:89:68:06:4f:da:9b:db:
+                    a1:b7:1b:dd:9d:7a:eb:da:65:d3:6e:1c:b7:60:3f:
+                    71:5b:98:fc:cc:2d:c2:77:50:18:89:d7:28:14:b6:
+                    ca:b7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:CB:EA:AD:5B:08:5D:CC:FF:FC:26:54:CE:49:E5:55:C6:38:F4:F8
+
+            X509v3 Subject Key Identifier: 
+                FB:A5:04:34:F3:6D:F8:8C:A6:4A:F4:5F:9F:48:01:F8:70:3C:5C:3A
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/EssentialSSLCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/EssentialSSLCA_2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:billing-service.ru, DNS:www.billing-service.ru
+    Signature Algorithm: sha1WithRSAEncryption
+         27:44:33:f2:01:8e:af:3a:73:e8:83:8a:76:ba:24:0c:20:d9:
+         d5:60:17:60:c9:08:56:71:b2:f3:5a:73:2f:12:6c:e9:b6:30:
+         69:c3:8e:2e:5f:fd:a7:08:e1:22:da:93:74:ea:a6:45:56:2f:
+         8e:50:4d:3d:85:3e:8b:c8:30:54:31:21:c5:57:4e:71:84:a3:
+         99:10:ae:8e:e9:0b:01:a6:ef:65:ab:08:1d:40:b2:cb:53:34:
+         2c:9b:d9:3a:f5:03:62:01:6a:aa:98:d7:c9:e4:13:f9:b3:5d:
+         e6:e1:25:d8:d5:25:52:49:4a:fd:bc:54:c6:31:52:a6:f4:0e:
+         70:c1:c6:0b:9f:aa:4b:f7:9d:96:51:52:95:d2:4c:d1:0a:0c:
+         3b:1a:6c:71:22:ca:ba:ee:16:f3:d6:75:27:6c:1c:a5:b8:b7:
+         e0:13:b3:6a:5f:58:1d:1d:a4:38:0d:b8:11:14:6b:bb:46:eb:
+         97:93:2b:b8:3a:c2:f4:d7:e2:49:83:b0:bc:8b:4b:e0:68:21:
+         e2:b6:0e:ce:49:53:5e:eb:04:07:ac:e2:01:03:8c:17:e6:f5:
+         6d:25:fb:1a:a9:37:91:28:3e:dc:53:af:1f:0f:16:95:ff:3c:
+         eb:75:97:ed:75:83:89:5b:c6:ec:d0:0c:e4:d3:58:cf:e7:36:
+         a8:64:84:25

@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1248855 (0x130e57)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=GeoTrust, Inc., CN=RapidSSL CA
+        Validity
+            Not Before: May 26 16:20:45 2014 GMT
+            Not After : May 29 15:52:19 2015 GMT
+        Subject: serialNumber=r/81kdE2emG8d4zXGhYB72CJBHG57Txk, OU=GT53008316, OU=See www.rapidssl.com/resources/cps (c)14, OU=Domain Control Validated - RapidSSL(R), CN=secureonesee.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c3:f8:d3:20:58:cf:a0:9a:17:07:1c:c5:3b:0f:
+                    0b:2d:53:40:02:70:36:27:f9:34:99:b5:aa:45:29:
+                    fe:32:df:2c:e0:af:08:0a:b2:2d:8c:b1:37:61:97:
+                    79:e6:c3:fa:84:21:27:a1:3d:a0:d9:1f:27:58:b5:
+                    26:7b:0b:5c:b9:30:3a:48:51:16:6c:fa:4f:82:7c:
+                    b2:f2:d8:64:23:1b:21:8f:15:ac:42:19:18:ba:be:
+                    ba:4f:29:cb:b6:8b:ab:e8:48:3a:72:51:01:5a:10:
+                    32:03:13:98:c2:ec:cb:1a:22:2d:e5:3e:3d:2a:81:
+                    15:d9:dd:5f:4e:49:dc:e1:02:49:d6:52:12:23:d4:
+                    60:c4:6a:3b:f9:1e:4f:30:6e:b3:ba:95:06:fc:8d:
+                    7b:ec:b0:f9:38:8f:ff:e5:a4:b5:3b:54:86:4a:63:
+                    01:17:a7:76:5d:7c:e7:ad:0b:dd:31:53:77:44:25:
+                    6b:fc:da:55:23:37:cd:a7:32:86:47:44:b7:d0:94:
+                    2f:21:29:b9:7c:fb:53:cd:9a:c8:8a:e2:d0:e1:22:
+                    3e:31:9a:12:db:39:15:e8:22:c7:fd:e3:bd:cb:ab:
+                    e3:cc:91:db:ed:54:b4:5b:3b:bc:87:5d:70:5a:66:
+                    be:6e:98:f9:ea:ec:dd:22:00:0f:2a:80:f7:34:71:
+                    32:cb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:6B:69:3D:6A:18:42:4A:DD:8F:02:65:39:FD:35:24:86:78:91:16:30
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:secureonesee.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://rapidssl-crl.geotrust.com/crls/rapidssl.crl
+
+            X509v3 Subject Key Identifier: 
+                42:12:69:FA:A9:86:AF:E4:54:B1:00:20:67:C1:32:66:62:AA:33:6C
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            Authority Information Access: 
+                OCSP - URI:http://rapidssl-ocsp.geotrust.com
+                CA Issuers - URI:http://rapidssl-aia.geotrust.com/rapidssl.crt
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: http://www.geotrust.com/resources/cps
+
+    Signature Algorithm: sha1WithRSAEncryption
+         5d:ca:18:38:21:bc:07:a5:b5:79:a7:f4:9d:8e:9e:5d:21:32:
+         ed:07:56:48:b9:8c:2a:69:a0:88:aa:b2:99:03:a9:f6:1a:df:
+         f9:8c:a3:64:49:df:6e:72:fd:97:6a:35:69:8d:1e:6f:71:23:
+         bf:0c:44:fc:9c:75:ef:c6:c6:b1:d0:22:f5:17:fc:08:dc:53:
+         45:08:fa:de:2f:56:f7:d6:aa:2a:1a:d2:54:64:de:9d:6f:77:
+         5c:c8:b9:1a:f1:73:13:49:83:c0:6f:f4:15:61:ac:fc:8a:87:
+         fc:d5:6b:21:c8:a5:02:f3:e4:95:20:ac:9d:88:55:2b:e4:33:
+         ab:9e:e9:85:04:60:2d:eb:a6:af:5c:ba:f2:6b:fe:1d:56:f4:
+         2f:6a:b2:96:4f:4d:b7:9f:88:33:31:32:69:72:11:0d:7f:c6:
+         d9:f0:98:8e:eb:1b:0d:cd:20:82:a6:e7:c6:96:75:33:8d:d8:
+         89:57:66:23:9e:75:07:00:ca:f9:99:0d:3a:7c:ac:47:e7:6a:
+         0a:67:c6:81:44:c2:65:a6:62:a4:bd:a2:76:76:98:2f:82:b4:
+         a1:f1:1f:5c:af:95:87:ef:25:77:d4:ea:ca:b2:56:09:d3:6b:
+         cb:37:9f:a3:9f:ef:44:e2:b7:54:3f:6d:c0:d6:6a:6a:cd:cd:
+         5b:ce:1e:32

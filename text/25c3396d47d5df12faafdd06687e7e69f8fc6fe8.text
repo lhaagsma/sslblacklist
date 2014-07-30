@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 15163804564267768052 (0xd270a7e8f0a098f4)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZB, ST=GH, L=GH, O=ADF, OU=ASS, CN=kilomenter.com
+        Validity
+            Not Before: May 14 22:48:15 2014 GMT
+            Not After : May 14 22:48:15 2015 GMT
+        Subject: C=ZB, ST=GH, L=GH, O=ADF, OU=ASS, CN=kilomenter.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ce:87:e8:8f:ef:26:cf:5f:2a:4b:99:a5:7d:d7:
+                    9a:7a:6d:29:7b:5e:26:36:96:12:ba:63:92:46:6f:
+                    4f:89:1e:18:41:fc:c4:b2:2f:be:86:aa:a0:87:79:
+                    26:13:95:c8:c0:89:24:ce:dd:44:dc:c3:2e:2e:52:
+                    06:6e:19:d8:2d:78:c8:77:c5:63:67:c1:79:b5:a9:
+                    7b:58:4a:f8:f1:72:eb:2c:bf:f4:8c:d4:f9:ab:71:
+                    56:6a:e0:01:14:d7:cd:1b:16:da:56:a6:5f:26:a6:
+                    89:0c:1e:dd:7a:bd:f8:57:6c:62:1f:b9:90:70:39:
+                    ef:0c:d9:73:c3:66:9f:93:96:c9:6f:68:14:c1:5e:
+                    e5:f0:5c:cb:be:67:09:a5:ef:13:7c:4b:87:6f:2c:
+                    c9:52:3c:bb:03:4d:60:a8:af:11:cf:35:35:5f:91:
+                    88:fe:2a:04:8f:4d:ed:b7:13:40:d9:5b:42:65:b6:
+                    c0:99:9b:56:79:d2:08:8d:f7:fa:d3:22:36:5f:3f:
+                    de:fd:0a:95:ef:65:5b:6f:a6:84:69:b0:ac:1e:4b:
+                    2e:4a:58:3b:10:42:9a:31:3f:ed:49:14:fa:ca:f8:
+                    41:0b:83:7b:d6:33:eb:45:f4:35:26:d6:48:cf:e7:
+                    5f:ca:22:4e:77:65:da:74:3d:51:db:ab:6e:09:62:
+                    1e:b1
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         ae:0a:b6:b9:40:03:7e:93:31:ed:0f:35:ea:85:be:46:84:0b:
+         fc:57:ae:f3:d0:4d:03:8a:a4:d5:3a:76:63:c0:20:84:41:22:
+         ba:c4:fc:e0:7e:b4:2e:7d:3f:b4:3d:4f:45:83:05:71:12:68:
+         0b:1d:cf:34:02:67:f9:ff:9c:b5:98:15:8e:55:f7:ec:43:04:
+         25:51:a9:61:50:6e:79:c0:64:49:fe:9c:7e:47:c2:67:a5:16:
+         d0:96:89:12:44:a2:12:75:84:fb:1b:7d:6e:54:99:3c:bd:ac:
+         0d:1e:3f:bd:f8:e4:37:01:33:08:5a:06:e3:69:da:db:16:06:
+         ee:16:78:51:e0:48:e9:f0:e3:2b:3c:2c:6a:92:21:b0:b3:f2:
+         d5:7c:30:4a:31:ab:56:db:1f:c0:96:3a:83:ca:0e:c1:b1:1a:
+         19:e2:d6:cc:3d:a6:fc:f6:15:99:1e:05:c3:c6:38:c0:b9:8b:
+         51:fa:1c:15:c2:fa:61:40:cd:33:61:fb:99:5d:e2:8b:5d:32:
+         06:d8:82:14:9f:1b:1f:92:bf:1d:9c:a4:01:82:4d:66:b4:c4:
+         85:7c:29:24:8a:ca:bf:62:df:5b:6b:26:3e:77:e5:d7:41:5d:
+         57:4c:a6:f1:40:b4:15:b6:2e:06:78:6f:05:ab:d3:bd:3a:5e:
+         67:ed:e1:67

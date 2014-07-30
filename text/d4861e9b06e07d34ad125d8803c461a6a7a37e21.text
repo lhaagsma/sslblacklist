@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 17011397528981493784 (0xec149fec1fe65818)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=RU, ST=Huyetsk, L=HUY, O=<script>alert("fuck you!");</script>, OU=<script>alert("fuck you!");</script>, CN=sslbl.abuse.ch/emailAddress=we_love_selfsigned@abuse.ch
+        Validity
+            Not Before: Jul 18 23:43:11 2014 GMT
+            Not After : Jul 18 23:43:11 2015 GMT
+        Subject: C=RU, ST=Huyetsk, L=HUY, O=<script>alert("fuck you!");</script>, OU=<script>alert("fuck you!");</script>, CN=sslbl.abuse.ch/emailAddress=we_love_selfsigned@abuse.ch
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a9:b5:93:a3:27:5c:23:36:ab:7b:80:0a:ea:5c:
+                    3e:e9:df:cd:84:87:d5:09:51:73:20:74:ba:69:d7:
+                    34:d9:00:d1:ab:6a:6a:a6:a9:18:8a:cc:60:19:60:
+                    5a:b0:51:1f:d3:74:6f:fa:05:e3:d3:a2:0a:10:70:
+                    50:d5:40:a0:94:72:21:43:18:23:46:f2:88:47:a5:
+                    0a:34:d2:88:87:1e:1f:c3:42:c8:a9:08:ce:b7:ec:
+                    68:29:91:d2:34:ce:fb:8c:01:6f:0f:94:59:14:63:
+                    d8:9c:5f:7b:7b:41:32:b6:20:be:2a:fe:2d:08:07:
+                    7f:49:25:9d:95:12:4a:56:79
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         16:bc:40:c5:6e:99:6d:a1:f3:aa:d7:0f:05:d6:a6:e5:f2:c6:
+         07:c0:61:bc:09:7e:75:14:33:79:e5:f3:c5:5d:4b:19:b7:31:
+         88:c5:3e:38:6b:eb:f6:65:3f:a3:31:20:0a:71:30:9d:71:07:
+         95:21:53:5f:54:20:cd:6d:81:6b:0e:0c:46:81:21:3a:38:11:
+         c8:37:18:4f:27:b9:c7:1e:1c:80:b8:42:21:75:d5:7a:88:8f:
+         92:84:8f:9f:de:d9:78:16:5f:13:8e:34:6e:ae:9f:44:ca:ac:
+         57:70:15:57:d5:3f:29:c0:7c:1c:cb:a0:c6:e9:de:29:b1:97:
+         eb:16

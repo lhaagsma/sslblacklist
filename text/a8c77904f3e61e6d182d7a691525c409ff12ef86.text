@@ -1,0 +1,41 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1585 (0x631)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=--, ST=SomeState, L=SomeCity, O=SomeOrganization, OU=SomeOrganizationalUnit, CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+        Validity
+            Not Before: May 16 10:55:48 2014 GMT
+            Not After : May 16 10:55:48 2015 GMT
+        Subject: C=--, ST=SomeState, L=SomeCity, O=SomeOrganization, OU=SomeOrganizationalUnit, CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ca:0f:ed:37:81:87:b6:93:6d:7e:2f:b3:a8:85:
+                    b7:71:32:f2:2c:eb:1c:4c:29:3c:ec:62:5e:42:a1:
+                    40:86:fd:ca:3c:aa:2e:eb:8b:96:d1:e0:08:63:7e:
+                    59:9d:43:93:98:d5:4a:50:95:d9:f7:c8:26:df:00:
+                    d2:68:20:18:81:6b:9f:05:7b:57:ff:d5:f0:18:58:
+                    1a:03:fe:ce:a1:62:47:80:ee:2e:e6:01:0c:bc:ae:
+                    3a:99:dd:89:6c:31:73:e5:da:a4:e2:f7:bf:e6:64:
+                    eb:a2:0e:53:21:b9:d3:11:c7:00:0d:f5:df:c4:54:
+                    b1:7b:d3:85:b0:6b:2a:c3:93
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                98:55:59:B5:5A:26:32:B0:2B:65:54:1D:F0:48:72:01:92:20:79:3B
+            X509v3 Authority Key Identifier: 
+                keyid:98:55:59:B5:5A:26:32:B0:2B:65:54:1D:F0:48:72:01:92:20:79:3B
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         20:7e:67:a1:24:52:e0:e6:b7:85:be:ad:e4:25:72:fb:b3:9b:
+         b4:c7:3d:31:e3:f1:00:c5:de:13:77:8e:dc:32:f8:cf:dd:26:
+         c2:30:6d:fb:09:dc:7e:fb:c8:60:5f:3c:d6:fb:ea:e5:41:61:
+         10:ce:fd:38:42:ef:54:d0:e4:3d:69:39:75:3b:e1:7c:63:93:
+         e8:69:dc:00:74:21:7f:44:66:70:b7:28:a8:1f:48:a5:33:9e:
+         a6:37:a9:51:0d:e2:36:83:56:3e:5b:57:54:9b:bb:38:f5:98:
+         4d:4a:e1:8c:b7:4f:12:c7:8f:3b:8a:85:4d:8e:b9:40:e4:b4:
+         4f:82

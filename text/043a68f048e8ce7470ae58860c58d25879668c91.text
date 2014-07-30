@@ -1,0 +1,78 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            96:64:75:12:ae:ce:fc:f2:49:da:21:5c:ac:03:62:1d
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=EssentialSSL CA
+        Validity
+            Not Before: Mar 19 00:00:00 2014 GMT
+            Not After : Mar 19 23:59:59 2015 GMT
+        Subject: OU=Domain Control Validated, OU=EssentialSSL, CN=www.newdomaininfo.ru
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9a:cc:f2:0c:e7:6c:c9:e0:2f:64:36:06:e6:b8:
+                    37:57:b3:d0:6e:bb:b4:6a:c6:25:1e:1b:2d:b7:7a:
+                    a5:cd:4d:66:1c:6e:d5:cb:2c:eb:94:81:9e:c4:5a:
+                    45:9a:2d:12:fe:f5:8c:8c:ff:43:c2:21:32:d1:0b:
+                    dd:9f:1b:06:c7:3a:59:68:3e:93:f7:e1:75:fa:2c:
+                    76:9b:22:c5:23:ed:4c:03:35:b4:ad:17:b0:63:12:
+                    c1:37:ed:d6:b3:29:d7:2c:73:67:1d:65:1a:8f:bc:
+                    a0:53:cd:59:35:0b:82:61:a8:38:9e:a4:43:ca:0b:
+                    5a:50:95:2e:c7:4a:74:49:4e:28:f8:2e:3c:d3:cf:
+                    9b:ac:da:56:b3:c8:c9:0a:fa:eb:dc:26:2c:df:c1:
+                    5b:b5:10:8e:15:3d:f9:30:fe:93:de:94:50:0e:f5:
+                    74:3d:9e:90:94:55:92:1a:72:b8:06:c3:67:f3:4b:
+                    d4:21:52:89:54:5f:46:08:69:a3:39:db:50:02:03:
+                    11:6a:93:b0:7d:e7:6c:08:17:a3:06:53:59:1a:56:
+                    8d:23:dd:a0:06:b6:08:77:f3:e1:fc:b3:4b:bc:1d:
+                    91:c2:dd:97:b7:d6:75:f2:a9:22:49:6d:5a:d7:13:
+                    90:8a:e4:43:f8:c1:38:b4:b4:70:65:2d:63:23:97:
+                    f4:01
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:CB:EA:AD:5B:08:5D:CC:FF:FC:26:54:CE:49:E5:55:C6:38:F4:F8
+
+            X509v3 Subject Key Identifier: 
+                C3:BB:D6:F6:92:79:68:BF:B7:24:D6:71:89:78:3A:EC:5B:22:7C:6D
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/EssentialSSLCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/EssentialSSLCA_2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.newdomaininfo.ru, DNS:newdomaininfo.ru
+    Signature Algorithm: sha1WithRSAEncryption
+         9f:a5:49:2a:05:5c:b7:65:10:fb:be:85:57:bc:6d:40:f2:0e:
+         91:69:e6:74:63:69:93:7e:ba:45:d2:5d:92:63:33:ef:41:5f:
+         99:de:e3:21:39:f7:82:2c:e4:6e:e4:98:11:99:79:3c:f2:3b:
+         0e:69:8f:b9:89:ab:35:71:d3:ff:20:da:e4:45:09:55:b1:25:
+         2c:24:8f:98:18:61:32:88:b7:84:52:29:6d:b9:a2:66:21:73:
+         41:31:3f:c1:98:0c:d6:7b:48:1c:bc:10:60:18:8f:1a:90:60:
+         bd:97:20:52:be:b5:d4:be:5a:7b:d3:be:bf:a0:67:a4:e9:79:
+         0b:31:0e:69:ec:80:ea:ad:76:28:55:fa:51:a8:7b:53:0b:2d:
+         e0:ed:f9:8e:e6:61:71:86:3e:d4:af:45:42:be:58:00:71:6c:
+         08:22:32:d4:06:e9:ec:be:16:d6:86:00:19:39:61:dc:bd:45:
+         0e:fc:6c:c9:aa:ae:f1:ff:73:95:4a:81:8d:cf:04:42:d7:91:
+         c6:30:e2:80:9e:21:ea:f5:7c:dd:4d:08:60:34:19:2b:1b:8c:
+         7e:b4:73:e9:cd:3d:16:7a:ba:c4:e2:53:fb:4b:30:75:65:64:
+         4b:80:28:87:47:99:ea:7d:f8:82:4c:ec:cc:72:6d:9e:f9:19:
+         26:7e:3f:34

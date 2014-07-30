@@ -1,0 +1,33 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 16409438357806430005 (0xe3ba093ed8b8b735)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Someprovince, L=Sometown, O=none, OU=none, CN=localhost/emailAddress=webmaster@localhost
+        Validity
+            Not Before: May 22 11:58:03 2014 GMT
+            Not After : Oct  6 11:58:03 2041 GMT
+        Subject: C=US, ST=Someprovince, L=Sometown, O=none, OU=none, CN=localhost/emailAddress=webmaster@localhost
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d0:a4:fb:fd:d3:bb:7c:8b:5b:3f:6c:b6:65:ac:
+                    37:3e:0b:b3:d5:5c:0a:6c:96:0c:19:4e:c8:40:b7:
+                    25:42:2f:10:22:ef:98:3a:f9:6a:33:e3:8c:3c:f4:
+                    63:9e:56:3c:65:73:7c:45:7e:cf:f7:20:de:e9:77:
+                    b3:0d:d4:36:60:7e:1d:f6:6f:5c:5a:ad:b5:77:15:
+                    93:7b:44:49:9e:cd:95:88:5d:18:54:0b:1b:39:c1:
+                    2f:87:29:4b:27:64:1e:61:fd:78:b8:8b:ad:6f:c9:
+                    f2:45:50:bf:ec:38:e7:12:67:36:9d:b3:05:7a:35:
+                    cd:12:c7:75:53:f9:6f:41:5d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         0b:84:cb:5b:f9:15:2f:0e:74:4a:6f:5c:52:28:3d:a4:01:b6:
+         57:fd:09:71:3a:fe:cf:22:ac:bb:26:4f:bf:f2:2f:fc:84:e5:
+         95:8e:d6:35:79:f7:26:19:e5:c5:4c:84:a6:f9:cd:fa:9b:32:
+         90:71:b9:84:50:f8:1e:ae:aa:31:f3:ae:6f:4d:58:a7:99:e0:
+         98:e2:04:f2:b9:49:4b:0f:0c:c1:1d:a3:c6:53:a5:4e:a4:8c:
+         77:c0:9b:92:0c:f6:05:95:5b:97:37:cc:f9:ed:12:53:ad:3b:
+         50:25:a5:6c:be:2c:79:f6:d4:08:e7:df:4b:af:5c:8a:2d:ce:
+         f8:c9

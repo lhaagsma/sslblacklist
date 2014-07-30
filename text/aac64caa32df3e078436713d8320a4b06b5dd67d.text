@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 796222 (0xc263e)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=GeoTrust, Inc., CN=RapidSSL CA
+        Validity
+            Not Before: May 18 22:11:29 2013 GMT
+            Not After : May 22 19:05:45 2014 GMT
+        Subject: serialNumber=K-/tFW4TpyKCrfMvhroCfXt4vIqb/akq, OU=GT40374786, OU=See www.rapidssl.com/resources/cps (c)13, OU=Domain Control Validated - RapidSSL(R), CN=junrio.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:7e:88:bb:f1:a2:08:94:12:eb:9b:02:e5:46:
+                    61:89:50:5f:2e:6c:f2:9e:e5:94:e3:5a:35:90:44:
+                    68:c7:9b:a9:51:88:c2:f7:a0:e5:ef:ab:eb:0e:ba:
+                    43:e8:db:e4:d2:33:44:b7:53:a9:b4:0c:b5:a4:1a:
+                    28:6a:96:8b:0b:ee:0d:e4:c2:f1:d3:86:33:fd:30:
+                    6d:d2:7a:3e:36:33:51:3d:81:8d:c8:80:29:fd:7d:
+                    12:85:17:53:c0:b3:8e:b7:86:0c:e9:8e:83:d2:9c:
+                    7d:58:a5:01:7e:e8:01:8a:49:44:12:fa:5c:56:4d:
+                    b6:ff:e9:25:10:80:fa:b1:d1:db:fa:4d:b5:90:d2:
+                    1b:23:62:7b:2e:f7:04:65:04:9c:cc:77:b3:33:bc:
+                    05:20:80:7e:24:08:ff:e2:5e:92:f3:87:69:74:20:
+                    e2:86:54:31:09:1a:65:9a:4c:54:14:17:d7:c1:de:
+                    c0:76:41:4e:d7:bb:11:a0:a6:ae:b0:f7:1b:ac:a6:
+                    fc:c1:6e:12:67:e0:ec:8b:ec:60:6e:5b:02:97:32:
+                    8a:3d:5d:e0:12:75:bb:bc:12:26:12:34:20:d5:4c:
+                    0f:e3:b3:fc:20:44:01:fd:76:65:76:4b:4a:73:7f:
+                    d5:80:63:d2:ba:f3:b0:68:d6:db:a4:47:0b:3e:27:
+                    0b:77
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:6B:69:3D:6A:18:42:4A:DD:8F:02:65:39:FD:35:24:86:78:91:16:30
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:junrio.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://rapidssl-crl.geotrust.com/crls/rapidssl.crl
+
+            X509v3 Subject Key Identifier: 
+                D9:F2:88:53:16:44:F5:60:BE:BD:25:FC:75:05:9E:7F:C0:25:31:8C
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            Authority Information Access: 
+                OCSP - URI:http://rapidssl-ocsp.geotrust.com
+                CA Issuers - URI:http://rapidssl-aia.geotrust.com/rapidssl.crt
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: http://www.geotrust.com/resources/cps
+
+    Signature Algorithm: sha1WithRSAEncryption
+         25:da:ce:b9:66:f0:a1:85:90:ae:6a:d4:e7:bd:df:7e:b5:43:
+         ef:8d:94:d6:26:79:19:6b:a7:b2:51:86:89:ea:26:ed:1d:2d:
+         8d:a8:05:1a:21:4c:1f:42:f2:50:ef:dd:27:dc:91:97:56:34:
+         75:c0:38:b8:46:5f:49:8e:f1:5e:f8:27:27:0a:5b:70:62:fc:
+         2b:85:75:df:9d:76:a1:d4:67:e2:5c:0e:09:f5:ad:8e:92:8c:
+         76:0e:93:72:74:13:38:bf:78:be:1a:2e:97:bf:82:2c:72:37:
+         9a:9b:cb:6f:5a:ed:9c:f8:7e:23:62:87:ef:a4:8d:f1:58:d5:
+         ed:71:4b:d4:e7:df:d7:8c:eb:37:b1:d8:b8:93:63:6a:21:93:
+         b3:5c:6b:2b:dc:26:4e:e1:9f:e6:73:73:87:0d:0f:2d:c5:60:
+         e8:14:a7:54:1a:32:75:a5:6b:d8:b9:e4:ed:d6:2a:f5:bf:40:
+         2d:1f:56:99:eb:f5:43:ae:5e:bb:da:2a:b3:8f:e8:52:35:fd:
+         b2:b5:aa:c5:94:94:50:d9:a6:3b:16:7a:f5:b8:84:96:90:d6:
+         ef:60:e5:9f:dc:ae:00:0a:30:b8:83:e7:ac:c8:e2:0d:12:c1:
+         48:d8:d5:10:67:40:92:54:84:c6:63:fe:3b:f8:84:9a:db:c4:
+         1a:da:7a:fc

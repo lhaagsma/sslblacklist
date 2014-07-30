@@ -1,0 +1,57 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 14003604959028978864 (0xc256cc8415d224b0)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=googleforking.com
+        Validity
+            Not Before: Jul  4 16:44:02 2014 GMT
+            Not After : Jul  1 16:44:02 2024 GMT
+        Subject: CN=googleforking.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a5:96:e5:02:f9:7c:db:07:40:6c:29:68:49:78:
+                    91:6e:92:6e:e2:c6:90:16:14:90:22:13:bc:32:c3:
+                    1b:38:21:ec:3d:3f:20:22:12:7f:b0:29:0b:ae:79:
+                    c2:1f:c9:cf:63:f7:ea:5a:b9:45:b5:f3:71:38:99:
+                    87:af:de:44:46:a8:5f:0e:fe:e2:d7:16:bf:52:92:
+                    04:b8:0c:59:57:bd:9b:ed:42:b5:24:d1:77:49:33:
+                    33:63:1a:2c:a7:d0:7f:81:b9:0e:61:1f:4f:4f:5a:
+                    b1:9d:f7:19:c4:05:88:05:e6:2c:53:ea:ce:2b:52:
+                    36:76:3f:b6:8a:64:e8:e8:0a:26:25:7f:d1:20:e6:
+                    e3:e9:97:11:bc:3e:67:39:c7:98:61:58:d3:39:61:
+                    99:ea:89:9e:bf:9c:c4:6e:3d:f9:29:ea:53:40:48:
+                    f3:ea:57:3b:ca:eb:33:fa:36:87:17:42:30:e4:0a:
+                    f6:f5:bf:aa:08:76:91:57:4b:db:be:04:f5:54:91:
+                    48:d5:08:27:a9:c9:15:ae:b7:7a:d7:50:d6:b1:55:
+                    b2:e5:71:54:4f:69:a4:0f:cd:ea:67:b7:bf:e8:b8:
+                    da:4f:63:50:1f:69:04:b9:94:00:65:fb:cb:bb:95:
+                    3e:a7:19:49:9f:75:fa:13:44:49:7e:39:60:81:0b:
+                    d5:b3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                11:32:C9:C7:86:15:3C:37:E3:5A:58:94:99:40:71:86:86:66:3F:15
+            X509v3 Authority Key Identifier: 
+                keyid:11:32:C9:C7:86:15:3C:37:E3:5A:58:94:99:40:71:86:86:66:3F:15
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         33:68:4d:ef:5a:b4:d9:77:2e:ee:89:fc:50:5d:3e:2c:6e:2e:
+         31:02:a5:03:e3:59:6f:07:08:69:44:25:df:f7:71:9f:c0:89:
+         58:7b:b6:64:3e:20:ab:76:42:91:f5:77:15:c2:f9:c2:6e:87:
+         9c:4c:56:7b:4d:a3:f4:87:13:9d:85:57:61:a4:2e:48:1a:08:
+         a9:0b:32:d0:ba:08:f9:3a:1c:97:bb:df:7e:68:94:95:1c:a7:
+         8b:da:82:29:50:21:6e:3f:75:aa:eb:f7:56:db:bd:62:08:ac:
+         07:bd:6f:9f:39:90:f7:15:28:1e:b4:4d:fd:8e:0c:55:6b:e2:
+         67:4d:7d:82:f5:c7:69:e1:6c:fe:05:dd:17:2d:9d:76:d5:a3:
+         f4:ff:12:4c:d4:6c:b1:68:d1:50:88:01:53:ff:fb:76:12:dc:
+         d5:c3:2e:90:70:67:4e:10:5b:c2:f3:20:4d:a9:1c:67:3f:d9:
+         84:31:28:11:41:0e:c1:bf:c0:16:96:28:73:ec:cd:50:47:cd:
+         b9:cd:e1:a5:2b:ce:70:e7:b7:c2:65:8a:1a:b7:e7:d5:22:76:
+         f7:53:ef:ac:80:78:25:c7:61:13:cf:b6:ee:31:cb:49:1f:7a:
+         c1:4d:56:de:e0:84:d3:46:e5:84:7b:87:81:4e:8b:75:55:8f:
+         87:4b:07:04

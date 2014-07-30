@@ -1,0 +1,57 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 12050547771839699796 (0xa73c255a19615b54)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=corporati-sdfs222222you.com
+        Validity
+            Not Before: Jun  2 09:05:45 2014 GMT
+            Not After : May 30 09:05:45 2024 GMT
+        Subject: CN=corporati-sdfs222222you.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ae:5f:29:23:3f:88:e7:15:34:65:7d:c3:9d:31:
+                    ac:67:e4:76:28:67:52:92:e0:ce:58:68:43:9f:22:
+                    4c:4b:ad:e4:62:8a:8e:5e:10:38:4d:6c:a0:10:d1:
+                    74:3b:37:38:5a:bd:b9:33:cf:cc:0f:b5:d8:f0:d4:
+                    58:c8:c1:ae:7f:41:ac:9c:c3:1d:ef:57:65:53:eb:
+                    9a:ac:11:64:74:0f:9c:c4:32:25:9e:96:2f:a2:a4:
+                    d5:2a:b4:3b:0e:d3:79:95:bf:ad:45:b7:7e:35:b2:
+                    c0:92:73:2d:16:37:f7:1a:31:8b:55:fe:f9:1b:f1:
+                    0a:fd:dc:0d:98:1a:e2:96:58:32:89:73:4e:25:ab:
+                    6a:81:57:2d:1b:0a:0b:c9:7c:0f:b1:3c:35:47:d2:
+                    ee:b3:c2:4d:c9:48:29:09:67:1e:ad:41:fb:a2:c7:
+                    2c:da:84:52:62:64:d9:37:0b:bd:d7:1b:45:30:59:
+                    d7:d2:ad:39:99:98:e5:76:ce:70:78:a4:4d:7d:44:
+                    30:db:4f:d1:7c:ed:63:98:8a:dc:7d:2e:bb:14:c9:
+                    ad:4f:51:72:6b:a4:47:7b:96:d9:a9:a1:0a:64:36:
+                    d0:fc:ec:1a:d3:92:a1:f5:1a:90:14:8c:4b:11:3d:
+                    7d:ed:f8:25:39:70:c6:f1:96:fc:39:b5:ee:77:a9:
+                    53:c3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                00:8E:38:17:13:3D:9A:9C:D0:81:35:03:06:CD:F0:74:F0:86:15:6F
+            X509v3 Authority Key Identifier: 
+                keyid:00:8E:38:17:13:3D:9A:9C:D0:81:35:03:06:CD:F0:74:F0:86:15:6F
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         5e:85:4d:e3:17:75:5f:50:ed:b4:38:ff:b2:65:c8:74:ec:45:
+         93:30:85:d7:4e:4f:4a:8b:de:33:37:66:3e:0f:eb:59:5a:ff:
+         83:37:2b:dc:cd:76:29:44:76:b7:34:11:54:ed:64:cf:69:1e:
+         7b:95:76:60:ad:33:66:82:1f:d7:69:0b:3c:7a:cc:75:70:bc:
+         55:6e:15:4e:5f:bb:cd:19:3e:75:eb:5f:c2:ef:b2:5f:3b:fa:
+         12:71:8e:7b:17:a1:cc:13:36:1f:b0:6c:0d:85:6f:4c:ab:fb:
+         07:9d:06:4c:a6:7d:4c:17:0b:53:f2:09:f7:28:46:09:fa:92:
+         13:7f:a6:27:e7:0e:77:04:bf:5c:07:9a:17:20:0f:2c:45:b7:
+         13:1e:dd:14:8e:d6:06:ec:ce:28:b3:ab:6c:29:f4:13:38:71:
+         ca:2e:9b:93:95:7c:9f:49:01:24:eb:bf:f7:38:6a:85:f8:57:
+         d7:a1:1f:98:40:01:6a:85:89:91:06:8f:46:e5:ae:73:ce:fa:
+         98:39:52:3b:5b:b2:8e:ab:de:12:71:ba:c5:a5:f0:c2:89:b9:
+         ea:38:db:c5:6c:c9:67:7e:e3:26:36:9d:d7:ce:f0:fe:38:29:
+         56:64:e8:54:d6:f0:e6:5f:ad:60:bb:72:ee:13:73:5b:46:2a:
+         72:6c:d8:dd
