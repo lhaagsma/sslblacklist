@@ -9,6 +9,4 @@ The fingerprints of the certificates have been taken from:
 
 https://sslbl.abuse.ch/
 
-Of the 151 certificates blacklisted, 95 are present in this repo, 56 are missing.
-
-
+If you have any of the certificates located in 'missing_certificates.txt' do perform a pull request or contact me on twitter / email. 
