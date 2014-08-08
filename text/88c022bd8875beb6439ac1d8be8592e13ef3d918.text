@@ -1,0 +1,69 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 15637681994515503465 (0xd90434ec099e5969)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Yorks, L=York, O=MyCompany Ltd., OU=IT, CN=localhost
+        Validity
+            Not Before: Jul 27 22:34:15 2014 GMT
+            Not After : Jul 27 22:34:15 2015 GMT
+        Subject: C=GB, ST=Yorks, L=York, O=MyCompany Ltd., OU=IT, CN=localhost
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a7:c1:5d:c4:1b:dd:7a:68:57:91:9d:44:2d:7a:
+                    b6:3e:5b:e6:4b:c8:ca:24:40:e5:91:a3:e9:08:a3:
+                    5c:59:6f:11:c4:66:33:e7:7e:0b:1d:3c:c3:bb:a0:
+                    90:dd:38:44:a7:44:8b:8a:77:c1:1b:5b:e8:fc:05:
+                    f3:0c:68:04:32:de:83:42:50:14:de:24:e3:6b:fa:
+                    bd:d7:3b:9d:55:da:72:54:25:7e:9d:2f:82:f7:fe:
+                    3a:34:de:bc:aa:99:a8:95:4e:e9:e7:25:62:2f:9c:
+                    54:ef:dc:7a:05:ce:71:b0:83:cb:e4:ad:46:25:39:
+                    e4:1e:28:63:7b:e6:06:2b:47:41:79:5d:95:e1:d2:
+                    7e:df:d6:d4:4f:f2:da:34:dc:66:13:af:b3:a1:2c:
+                    e8:f9:43:9e:57:43:c6:30:ba:fe:72:47:9c:a5:27:
+                    ff:fb:57:9b:02:e2:ff:cf:67:3c:b8:e8:27:10:75:
+                    16:fb:84:c4:43:a7:2a:66:71:32:e7:df:06:bb:87:
+                    39:16:86:6e:ea:72:ec:2c:61:76:1b:17:84:12:07:
+                    75:a7:79:26:6f:36:63:55:fd:4f:aa:27:40:64:44:
+                    d1:45:8d:03:92:df:cb:06:66:f6:01:bd:82:a4:32:
+                    5d:7a:d2:7a:c7:8b:2e:d9:b1:24:23:28:78:de:21:
+                    e3:59
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         6a:70:ed:4d:2b:d8:cc:68:30:bd:22:70:bc:e9:37:68:c3:1b:
+         a2:c4:79:db:99:82:98:f0:7b:bc:12:d1:37:8f:5b:76:88:49:
+         a8:29:6c:dc:93:d7:9c:a3:c5:4b:0f:5a:42:01:06:b4:e9:78:
+         81:52:84:f3:64:7c:db:b7:3b:11:4f:1e:58:52:0c:66:20:dc:
+         ae:8f:e4:e3:75:b7:a6:88:87:24:da:76:d5:dd:af:56:30:88:
+         27:34:f9:ce:c4:63:14:25:85:5e:8e:8b:e9:49:65:47:59:bc:
+         8e:55:30:e2:f4:33:f5:90:0e:76:46:fd:fb:bd:05:79:5b:6e:
+         3a:10:ec:9d:4e:d0:93:aa:a7:6e:af:fc:54:af:a3:d4:3b:b8:
+         4d:c6:a0:ee:e2:52:98:7d:82:38:17:67:a0:d5:ac:2a:8f:23:
+         42:09:f8:53:fe:e7:71:35:8c:1a:e2:32:4b:1b:a4:cd:2a:a7:
+         ca:46:9a:f7:29:91:9e:e4:b6:7b:af:2f:53:b5:44:65:34:97:
+         3d:e6:59:59:23:41:43:8e:7f:38:d5:f5:27:b2:b8:d6:bb:37:
+         cb:1c:5b:d9:4b:5d:8f:ad:97:f9:40:53:ab:3c:ba:3f:15:a3:
+         77:eb:73:e0:eb:c3:53:28:c2:2c:d1:ec:93:9f:2d:7a:90:f2:
+         06:1c:15:46
+-----BEGIN CERTIFICATE-----
+MIIDSDCCAjACCQDZBDTsCZ5ZaTANBgkqhkiG9w0BAQUFADBmMQswCQYDVQQGEwJH
+QjEOMAwGA1UECBMFWW9ya3MxDTALBgNVBAcTBFlvcmsxFzAVBgNVBAoTDk15Q29t
+cGFueSBMdGQuMQswCQYDVQQLEwJJVDESMBAGA1UEAxMJbG9jYWxob3N0MB4XDTE0
+MDcyNzIyMzQxNVoXDTE1MDcyNzIyMzQxNVowZjELMAkGA1UEBhMCR0IxDjAMBgNV
+BAgTBVlvcmtzMQ0wCwYDVQQHEwRZb3JrMRcwFQYDVQQKEw5NeUNvbXBhbnkgTHRk
+LjELMAkGA1UECxMCSVQxEjAQBgNVBAMTCWxvY2FsaG9zdDCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKfBXcQb3XpoV5GdRC16tj5b5kvIyiRA5ZGj6Qij
+XFlvEcRmM+d+Cx08w7ugkN04RKdEi4p3wRtb6PwF8wxoBDLeg0JQFN4k42v6vdc7
+nVXaclQlfp0vgvf+OjTevKqZqJVO6eclYi+cVO/cegXOcbCDy+StRiU55B4oY3vm
+BitHQXldleHSft/W1E/y2jTcZhOvs6Es6PlDnldDxjC6/nJHnKUn//tXmwLi/89n
+PLjoJxB1FvuExEOnKmZxMuffBruHORaGbupy7CxhdhsXhBIHdad5Jm82Y1X9T6on
+QGRE0UWNA5LfywZm9gG9gqQyXXrSeseLLtmxJCMoeN4h41kCAwEAATANBgkqhkiG
+9w0BAQUFAAOCAQEAanDtTSvYzGgwvSJwvOk3aMMbosR525mCmPB7vBLRN49bdohJ
+qCls3JPXnKPFSw9aQgEGtOl4gVKE82R827c7EU8eWFIMZiDcro/k43W3poiHJNp2
+1d2vVjCIJzT5zsRjFCWFXo6L6UllR1m8jlUw4vQz9ZAOdkb9+70FeVtuOhDsnU7Q
+k6qnbq/8VK+j1Du4Tcag7uJSmH2COBdnoNWsKo8jQgn4U/7ncTWMGuIySxukzSqn
+ykaa9ymRnuS2e68vU7VEZTSXPeZZWSNBQ45/ONX1J7K41rs3yxxb2Utdj62X+UBT
+qzy6PxWjd+tz4OvDUyjCLNHsk58tepDyBhwVRg==
+-----END CERTIFICATE-----

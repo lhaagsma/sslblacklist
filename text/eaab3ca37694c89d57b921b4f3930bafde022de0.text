@@ -1,0 +1,106 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1061141 (0x103115)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=GeoTrust, Inc., CN=RapidSSL CA
+        Validity
+            Not Before: Jan 19 06:59:27 2014 GMT
+            Not After : Jan 22 07:30:52 2015 GMT
+        Subject: serialNumber=sZ/oX3Clr18THyfxvLeWC5vydPczZwgo, OU=GT98479841, OU=See www.rapidssl.com/resources/cps (c)14, OU=Domain Control Validated - RapidSSL(R), CN=msvsprot.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bb:56:cc:3f:d7:a7:cb:09:1f:aa:d2:87:4b:6c:
+                    b5:65:c2:20:c9:5b:ed:f2:02:14:0c:21:ca:7c:fa:
+                    cf:0c:cd:7d:d2:68:d0:19:79:12:24:3c:59:75:08:
+                    a8:e1:58:23:77:a5:eb:8c:f4:c9:85:f9:5d:60:8b:
+                    f8:84:b6:18:02:dc:5e:7e:dc:9d:01:27:04:4f:02:
+                    04:ad:ca:47:83:e3:a1:7a:df:72:56:d0:23:d6:88:
+                    fb:34:03:8f:d1:c8:e9:b2:3b:15:e8:ee:4a:55:b7:
+                    91:64:3c:56:f2:32:8b:41:d6:70:be:54:ed:42:d9:
+                    a1:8a:a9:47:b4:79:98:dd:36:89:5d:7e:14:19:68:
+                    8f:b8:ba:60:1a:e6:8a:c7:3e:4b:f6:e3:b6:15:e5:
+                    b6:80:93:2f:0d:c9:12:58:86:e3:0d:8c:fb:32:8b:
+                    47:f8:7d:86:40:1e:32:c6:34:22:80:f9:6f:a7:46:
+                    21:96:09:9b:9f:c6:b0:10:97:7a:ae:32:71:9d:76:
+                    d6:16:6b:f7:2e:33:d1:07:7f:67:65:7f:fd:56:ae:
+                    d2:85:73:da:ad:42:7c:07:01:c1:4d:1d:67:3b:08:
+                    7d:d4:3e:bd:18:68:24:15:1f:38:14:ad:33:b2:62:
+                    10:9f:8e:6f:3d:47:f7:16:ee:00:b8:9f:73:f1:09:
+                    a8:7d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:6B:69:3D:6A:18:42:4A:DD:8F:02:65:39:FD:35:24:86:78:91:16:30
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:msvsprot.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://rapidssl-crl.geotrust.com/crls/rapidssl.crl
+
+            X509v3 Subject Key Identifier: 
+                17:52:AF:92:0C:83:58:7A:73:DE:F7:09:D5:34:4E:B4:1B:1D:57:F8
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            Authority Information Access: 
+                OCSP - URI:http://rapidssl-ocsp.geotrust.com
+                CA Issuers - URI:http://rapidssl-aia.geotrust.com/rapidssl.crt
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: http://www.geotrust.com/resources/cps
+
+    Signature Algorithm: sha1WithRSAEncryption
+         01:c9:a8:ef:60:c7:93:d1:5c:3c:d2:7a:2e:ee:1a:ea:15:b8:
+         8a:e4:5c:74:97:a5:3e:51:7d:a0:c8:a0:98:e9:b4:26:e8:37:
+         e1:07:26:69:b8:d3:57:7f:4f:48:1e:49:b3:78:b9:7a:4f:f1:
+         21:26:f5:61:3c:e7:58:d2:77:5e:e4:12:fb:30:47:c6:51:a2:
+         f8:a4:af:05:b4:81:27:ec:d3:0c:e2:29:b4:d5:b7:8d:da:6c:
+         ba:8d:42:f2:74:f9:07:a4:57:0f:d9:89:46:7f:85:a2:e0:85:
+         d6:37:d6:48:be:58:b4:85:80:1a:15:b2:99:8b:f1:93:7d:40:
+         00:c8:94:fa:f7:d1:d7:46:20:43:4d:00:01:3f:0d:dd:c4:64:
+         7e:2b:ae:7a:a8:b6:66:3f:86:ce:e1:c2:92:9e:9e:b8:b0:62:
+         6c:73:78:eb:11:4f:8f:91:c4:b4:9a:72:d5:97:a4:b2:c6:1a:
+         6b:a8:30:62:c5:b3:4b:dc:7d:49:94:16:81:72:0e:57:b0:7e:
+         fc:5f:b8:c6:87:59:a0:b9:0b:9a:e9:6e:84:bd:d3:ff:a8:44:
+         84:ae:27:55:7a:19:e2:6e:60:48:f4:a5:c4:f0:15:e6:36:28:
+         80:bd:98:b5:a3:c4:e6:b4:ca:c3:60:36:81:09:9e:9f:bb:88:
+         da:50:53:ac
+-----BEGIN CERTIFICATE-----
+MIIFHjCCBAagAwIBAgIDEDEVMA0GCSqGSIb3DQEBBQUAMDwxCzAJBgNVBAYTAlVT
+MRcwFQYDVQQKEw5HZW9UcnVzdCwgSW5jLjEUMBIGA1UEAxMLUmFwaWRTU0wgQ0Ew
+HhcNMTQwMTE5MDY1OTI3WhcNMTUwMTIyMDczMDUyWjCBuzEpMCcGA1UEBRMgc1ov
+b1gzQ2xyMThUSHlmeHZMZVdDNXZ5ZFBjelp3Z28xEzARBgNVBAsTCkdUOTg0Nzk4
+NDExMTAvBgNVBAsTKFNlZSB3d3cucmFwaWRzc2wuY29tL3Jlc291cmNlcy9jcHMg
+KGMpMTQxLzAtBgNVBAsTJkRvbWFpbiBDb250cm9sIFZhbGlkYXRlZCAtIFJhcGlk
+U1NMKFIpMRUwEwYDVQQDEwxtc3ZzcHJvdC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC7Vsw/16fLCR+q0odLbLVlwiDJW+3yAhQMIcp8+s8MzX3S
+aNAZeRIkPFl1CKjhWCN3peuM9MmF+V1gi/iEthgC3F5+3J0BJwRPAgStykeD46F6
+33JW0CPWiPs0A4/RyOmyOxXo7kpVt5FkPFbyMotB1nC+VO1C2aGKqUe0eZjdNold
+fhQZaI+4umAa5orHPkv247YV5baAky8NyRJYhuMNjPsyi0f4fYZAHjLGNCKA+W+n
+RiGWCZufxrAQl3quMnGddtYWa/cuM9EHf2dlf/1WrtKFc9qtQnwHAcFNHWc7CH3U
+Pr0YaCQVHzgUrTOyYhCfjm89R/cW7gC4n3PxCah9AgMBAAGjggGnMIIBozAfBgNV
+HSMEGDAWgBRraT1qGEJK3Y8CZTn9NSSGeJEWMDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBcGA1UdEQQQMA6CDG1zdnNwcm90
+LmNvbTBDBgNVHR8EPDA6MDigNqA0hjJodHRwOi8vcmFwaWRzc2wtY3JsLmdlb3Ry
+dXN0LmNvbS9jcmxzL3JhcGlkc3NsLmNybDAdBgNVHQ4EFgQUF1KvkgyDWHpz3vcJ
+1TROtBsdV/gwDAYDVR0TAQH/BAIwADB4BggrBgEFBQcBAQRsMGowLQYIKwYBBQUH
+MAGGIWh0dHA6Ly9yYXBpZHNzbC1vY3NwLmdlb3RydXN0LmNvbTA5BggrBgEFBQcw
+AoYtaHR0cDovL3JhcGlkc3NsLWFpYS5nZW90cnVzdC5jb20vcmFwaWRzc2wuY3J0
+MEwGA1UdIARFMEMwQQYKYIZIAYb4RQEHNjAzMDEGCCsGAQUFBwIBFiVodHRwOi8v
+d3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvY3BzMA0GCSqGSIb3DQEBBQUAA4IB
+AQAByajvYMeT0Vw80nou7hrqFbiK5Fx0l6U+UX2gyKCY6bQm6DfhByZpuNNXf09I
+HkmzeLl6T/EhJvVhPOdY0nde5BL7MEfGUaL4pK8FtIEn7NMM4im01beN2my6jULy
+dPkHpFcP2YlGf4Wi4IXWN9ZIvli0hYAaFbKZi/GTfUAAyJT699HXRiBDTQABPw3d
+xGR+K656qLZmP4bO4cKSnp64sGJsc3jrEU+PkcS0mnLVl6SyxhprqDBixbNL3H1J
+lBaBcg5XsH78X7jGh1mguQua6W6EvdP/qESEridVehnibmBI9KXE8BXmNiiAvZi1
+o8TmtMrDYDaBCZ6fu4jaUFOs
+-----END CERTIFICATE-----
