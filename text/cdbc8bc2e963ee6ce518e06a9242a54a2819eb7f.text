@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 12599168989557704702 (0xaed93d7157b447fe)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=nagchampa.in
+        Validity
+            Not Before: Jul 29 15:37:53 2014 GMT
+            Not After : Jul 26 15:37:53 2024 GMT
+        Subject: CN=nagchampa.in
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c0:ed:be:9b:21:32:2c:53:c1:27:b7:d1:a1:6d:
+                    0b:a7:3f:e5:fa:9f:d1:89:51:3d:5c:3d:91:72:9a:
+                    84:3a:a5:15:7d:5c:d6:bb:01:ec:b8:4b:7d:a1:28:
+                    4e:3e:e3:3d:16:e0:9f:9c:e2:ac:01:81:da:be:b7:
+                    71:45:d6:1c:b4:c4:a8:53:7d:18:cc:e6:16:1f:b0:
+                    2b:a6:0a:06:8e:1a:be:7b:01:5d:68:49:4a:8d:f5:
+                    5c:15:9f:8d:81:85:14:3f:ae:e4:e1:0b:93:20:ca:
+                    9b:7d:3b:6b:80:3d:e5:f8:e7:c8:a6:79:3a:e1:44:
+                    90:92:20:bd:ba:f7:66:73:80:dd:98:fa:52:da:a0:
+                    10:18:3f:fa:17:9a:44:df:00:b4:d1:ec:d6:4c:14:
+                    c5:42:5c:54:56:68:38:cd:32:bf:96:44:fa:b4:32:
+                    ad:2e:fc:0a:1a:b8:3b:3f:70:a9:f0:c8:b7:d4:6c:
+                    a7:70:7f:a2:73:e6:cc:df:24:a5:21:31:86:ca:c7:
+                    50:61:1b:76:3c:97:41:04:2a:03:6f:a8:49:63:21:
+                    2a:a8:98:3a:5a:20:76:e1:93:53:aa:ff:5f:96:90:
+                    7c:e9:45:da:82:a6:e2:8d:99:9d:6f:2a:1a:b0:80:
+                    b3:5b:58:b3:0a:f7:f1:37:49:32:87:ba:bb:86:e6:
+                    19:79
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E9:49:61:1A:69:2A:9B:27:C3:0E:5C:3F:8F:4E:B0:8E:51:F8:D2:96
+            X509v3 Authority Key Identifier: 
+                keyid:E9:49:61:1A:69:2A:9B:27:C3:0E:5C:3F:8F:4E:B0:8E:51:F8:D2:96
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         6f:05:28:e6:27:1e:5b:cf:ac:eb:43:bc:bb:52:88:6d:42:4c:
+         8c:c9:59:e0:de:47:12:a8:28:90:a6:7a:ba:6c:52:7e:6b:df:
+         8e:ed:ab:91:39:e1:4a:7e:e2:a6:5b:6e:e2:bb:38:c2:f5:0f:
+         b7:6a:8f:c3:ed:69:9d:01:83:fc:ae:32:25:df:cd:f9:38:38:
+         d5:22:fb:9d:26:6f:b6:ec:af:09:8e:31:62:da:9e:7c:5c:d8:
+         57:6e:7e:1f:6d:50:6a:ef:1b:0c:b3:07:75:08:10:b5:c3:66:
+         9d:31:35:98:a3:dd:86:65:28:66:48:4b:4a:c4:6d:8a:ab:35:
+         5b:87:00:08:3d:2b:4c:3c:9a:bf:46:67:2f:57:6c:c6:98:2a:
+         42:27:3c:c6:ca:1e:57:2a:6b:2b:e6:d5:22:b9:03:e4:64:17:
+         50:b9:3e:1c:b1:df:68:33:28:da:93:0f:b6:bd:ea:34:27:58:
+         f0:3a:20:a2:fb:6e:30:e4:9d:e2:6c:b6:81:68:ed:4e:0d:bc:
+         5d:cd:c0:66:a2:d1:1f:f6:af:b9:1e:64:c6:8d:ca:d8:88:35:
+         5f:79:6e:f0:4d:41:5d:f7:12:3d:36:cc:1f:e5:25:95:a2:04:
+         84:82:7d:f6:c1:18:57:14:01:7d:ec:e3:b5:07:0f:c7:42:ef:
+         97:31:f3:ed
+-----BEGIN CERTIFICATE-----
+MIIDATCCAemgAwIBAgIJAK7ZPXFXtEf+MA0GCSqGSIb3DQEBBQUAMBcxFTATBgNV
+BAMMDG5hZ2NoYW1wYS5pbjAeFw0xNDA3MjkxNTM3NTNaFw0yNDA3MjYxNTM3NTNa
+MBcxFTATBgNVBAMMDG5hZ2NoYW1wYS5pbjCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAMDtvpshMixTwSe30aFtC6c/5fqf0YlRPVw9kXKahDqlFX1c1rsB
+7LhLfaEoTj7jPRbgn5zirAGB2r63cUXWHLTEqFN9GMzmFh+wK6YKBo4avnsBXWhJ
+So31XBWfjYGFFD+u5OELkyDKm307a4A95fjnyKZ5OuFEkJIgvbr3ZnOA3Zj6Utqg
+EBg/+heaRN8AtNHs1kwUxUJcVFZoOM0yv5ZE+rQyrS78Chq4Oz9wqfDIt9Rsp3B/
+onPmzN8kpSExhsrHUGEbdjyXQQQqA2+oSWMhKqiYOlogduGTU6r/X5aQfOlF2oKm
+4o2ZnW8qGrCAs1tYswr38TdJMoe6u4bmGXkCAwEAAaNQME4wHQYDVR0OBBYEFOlJ
+YRppKpsnww5cP49OsI5R+NKWMB8GA1UdIwQYMBaAFOlJYRppKpsnww5cP49OsI5R
++NKWMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADggEBAG8FKOYnHlvPrOtD
+vLtSiG1CTIzJWeDeRxKoKJCmerpsUn5r347tq5E54Up+4qZbbuK7OML1D7dqj8Pt
+aZ0Bg/yuMiXfzfk4ONUi+50mb7bsrwmOMWLannxc2Fdufh9tUGrvGwyzB3UIELXD
+Zp0xNZij3YZlKGZIS0rEbYqrNVuHAAg9K0w8mr9GZy9XbMaYKkInPMbKHlcqayvm
+1SK5A+RkF1C5Phyx32gzKNqTD7a96jQnWPA6IKL7bjDkneJstoFo7U4NvF3NwGai
+0R/2r7keZMaNytiINV95bvBNQV33Ej02zB/lJZWiBISCffbBGFcUAX3s47UHD8dC
+75cx8+0=
+-----END CERTIFICATE-----
