@@ -1,0 +1,130 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            9d:cc:f9:22:6e:9f:4c:d8:6b:bd:1a:e5:f7:63:8f:f9
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=EssentialSSL CA
+        Validity
+            Not Before: Aug 12 00:00:00 2014 GMT
+            Not After : Nov 10 23:59:59 2014 GMT
+        Subject: OU=Domain Control Validated, OU=Free SSL, CN=koskoskos11.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:be:4c:87:20:ac:2d:c0:58:3c:1b:62:78:3c:48:
+                    89:25:ca:aa:df:c6:eb:44:d7:7d:f7:44:9d:7d:cc:
+                    26:00:42:a2:f1:32:84:13:ab:23:39:8c:3a:d6:f1:
+                    61:60:c3:6b:00:01:70:53:9a:3b:82:1e:82:1e:0f:
+                    07:d3:d1:17:1a:d1:f6:eb:d4:7a:5d:0e:48:cd:6f:
+                    9c:27:c1:57:f0:c4:a3:df:ff:ec:cc:2e:b9:53:34:
+                    7a:d3:22:4b:05:5d:68:d7:48:24:b0:15:d9:58:e6:
+                    51:6d:ba:7c:11:0f:a3:68:50:21:74:09:59:93:b6:
+                    dc:9f:3d:8a:42:2e:e4:46:5f:e1:24:05:cd:46:17:
+                    46:53:63:b6:07:68:88:2f:db:e0:dd:15:3b:ef:fc:
+                    9a:4a:2b:11:7f:2d:e8:46:ff:0b:9c:78:68:e8:2a:
+                    aa:1a:a6:56:b3:0d:ee:e1:d1:5d:91:33:8c:9f:d5:
+                    df:02:1f:55:87:6f:5a:b0:67:94:8f:e9:0f:b6:3d:
+                    ff:7b:72:e9:7f:83:f1:a5:5c:ea:cc:59:13:13:92:
+                    4b:3e:89:0b:b6:bd:27:61:e7:fb:a0:cd:d2:20:8f:
+                    b7:64:a6:e2:39:4c:65:34:88:ae:96:95:ff:46:85:
+                    3f:4c:2e:98:54:d0:bf:b4:4e:0a:4a:8c:ae:fd:08:
+                    0c:bd:fc:32:73:07:f9:1d:93:1e:84:54:02:c1:95:
+                    a4:55:52:25:f8:4f:6c:52:11:36:ff:46:17:33:23:
+                    1e:e0:a0:a3:a3:74:c5:fa:95:9e:b6:2b:bc:81:b2:
+                    0f:51:15:42:f8:5a:7c:b1:ea:c5:54:98:b3:f4:02:
+                    86:4b:f9:a0:22:b4:d2:74:84:34:96:5a:21:be:6c:
+                    43:ad:63:b1:9b:d4:89:43:0d:44:4b:b1:46:7c:da:
+                    ff:2d:01:0e:93:94:b7:dd:53:87:47:3c:69:93:02:
+                    6e:14:cf:b2:80:58:bb:56:ad:38:cf:8d:74:2e:8b:
+                    c1:a5:b2:ca:2d:51:e9:a3:f7:03:94:5f:a4:8f:f2:
+                    0d:15:1b:58:06:82:2c:36:fc:84:17:bb:06:72:e1:
+                    54:c4:82:9a:f6:87:1a:b0:3b:16:6a:6a:19:7b:c6:
+                    17:3a:ce:a4:cd:86:95:59:85:20:50:a5:7c:da:2d:
+                    31:8e:17:57:63:c0:8b:db:7c:c1:56:00:3d:29:61:
+                    f1:22:47:77:85:a6:09:09:c5:52:b7:15:89:b3:cb:
+                    90:8f:a4:2d:38:36:b2:de:76:d6:58:17:b1:75:5b:
+                    40:47:8f:1c:1f:05:25:40:7d:50:57:45:2b:5e:2a:
+                    ac:41:f2:e7:e5:47:bb:48:65:2f:52:de:c7:cc:50:
+                    99:bc:09
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:CB:EA:AD:5B:08:5D:CC:FF:FC:26:54:CE:49:E5:55:C6:38:F4:F8
+
+            X509v3 Subject Key Identifier: 
+                1A:56:9D:BE:5F:07:61:F6:C2:29:2B:12:0B:62:F3:11:0E:B0:2F:F7
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/EssentialSSLCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/EssentialSSLCA_2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:koskoskos11.com, DNS:www.koskoskos11.com
+    Signature Algorithm: sha1WithRSAEncryption
+         0a:70:8d:aa:e8:68:c0:ac:42:42:db:ec:7a:04:45:bf:95:11:
+         1f:0d:82:01:4c:15:d4:0b:fd:08:e2:52:9f:be:e7:7e:4a:03:
+         c4:38:b8:61:ea:f4:c6:77:54:a0:05:9e:29:a4:17:78:bf:a9:
+         16:b9:6b:25:77:4d:35:cc:ef:00:13:3c:01:d0:ad:de:98:67:
+         65:9a:35:ad:b0:27:ac:e0:05:c6:2e:22:b9:aa:ed:a2:85:9c:
+         5d:01:93:48:8e:bc:90:88:00:dd:90:fe:62:e7:4c:7d:af:2b:
+         d9:77:8a:f9:ad:74:68:5d:74:04:05:83:74:6d:0d:25:28:56:
+         a0:5b:59:61:79:f4:d5:15:44:20:98:2d:00:f5:51:8a:66:40:
+         bf:c8:20:60:0b:4d:4d:9d:2d:7a:87:1b:36:bc:c6:ef:31:b3:
+         da:23:a4:a8:e4:d6:c4:77:92:ed:df:05:34:ae:71:00:76:a2:
+         9e:01:5f:b5:33:42:a9:6a:64:fa:35:12:ac:46:b9:27:e5:db:
+         34:a8:29:2e:6a:3f:6a:5f:ed:29:9c:9c:ba:62:d6:51:3d:20:
+         66:c3:10:c6:d6:d3:cc:02:9e:2f:88:a2:9b:9a:0a:fe:44:eb:
+         82:68:08:51:ae:77:4f:a6:81:8f:7c:5e:d3:87:30:0e:75:1f:
+         f0:3e:23:04
+-----BEGIN CERTIFICATE-----
+MIIGFjCCBP6gAwIBAgIRAJ3M+SJun0zYa70a5fdjj/kwDQYJKoZIhvcNAQEFBQAw
+cjELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxGDAWBgNV
+BAMTD0Vzc2VudGlhbFNTTCBDQTAeFw0xNDA4MTIwMDAwMDBaFw0xNDExMTAyMzU5
+NTlaMFAxITAfBgNVBAsTGERvbWFpbiBDb250cm9sIFZhbGlkYXRlZDERMA8GA1UE
+CxMIRnJlZSBTU0wxGDAWBgNVBAMTD2tvc2tvc2tvczExLmNvbTCCAiIwDQYJKoZI
+hvcNAQEBBQADggIPADCCAgoCggIBAL5MhyCsLcBYPBtieDxIiSXKqt/G60TXffdE
+nX3MJgBCovEyhBOrIzmMOtbxYWDDawABcFOaO4Iegh4PB9PRFxrR9uvUel0OSM1v
+nCfBV/DEo9//7MwuuVM0etMiSwVdaNdIJLAV2VjmUW26fBEPo2hQIXQJWZO23J89
+ikIu5EZf4SQFzUYXRlNjtgdoiC/b4N0VO+/8mkorEX8t6Eb/C5x4aOgqqhqmVrMN
+7uHRXZEzjJ/V3wIfVYdvWrBnlI/pD7Y9/3ty6X+D8aVc6sxZExOSSz6JC7a9J2Hn
++6DN0iCPt2Sm4jlMZTSIrpaV/0aFP0wumFTQv7ROCkqMrv0IDL38MnMH+R2THoRU
+AsGVpFVSJfhPbFIRNv9GFzMjHuCgo6N0xfqVnrYrvIGyD1EVQvhafLHqxVSYs/QC
+hkv5oCK00nSENJZaIb5sQ61jsZvUiUMNREuxRnza/y0BDpOUt91Th0c8aZMCbhTP
+soBYu1atOM+NdC6LwaWyyi1R6aP3A5RfpI/yDRUbWAaCLDb8hBe7BnLhVMSCmvaH
+GrA7FmpqGXvGFzrOpM2GlVmFIFClfNotMY4XV2PAi9t8wVYAPSlh8SJHd4WmCQnF
+UrcVibPLkI+kLTg2st521lgXsXVbQEePHB8FJUB9UFdFK14qrEHy5+VHu0hlL1Le
+x8xQmbwJAgMBAAGjggHHMIIBwzAfBgNVHSMEGDAWgBTay+qtWwhdzP/8JlTOSeVV
+xjj0+DAdBgNVHQ4EFgQUGladvl8HYfbCKSsSC2LzEQ6wL/cwDgYDVR0PAQH/BAQD
+AgWgMAwGA1UdEwEB/wQCMAAwNAYDVR0lBC0wKwYIKwYBBQUHAwEGCCsGAQUFBwMC
+BgorBgEEAYI3CgMDBglghkgBhvhCBAEwTwYDVR0gBEgwRjA6BgsrBgEEAbIxAQIC
+BzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQUzAI
+BgZngQwBAgEwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5jb21vZG9jYS5j
+b20vRXNzZW50aWFsU1NMQ0EuY3JsMG4GCCsGAQUFBwEBBGIwYDA4BggrBgEFBQcw
+AoYsaHR0cDovL2NydC5jb21vZG9jYS5jb20vRXNzZW50aWFsU1NMQ0FfMi5jcnQw
+JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTAvBgNVHREEKDAm
+gg9rb3Nrb3Nrb3MxMS5jb22CE3d3dy5rb3Nrb3Nrb3MxMS5jb20wDQYJKoZIhvcN
+AQEFBQADggEBAApwjaroaMCsQkLb7HoERb+VER8NggFMFdQL/QjiUp++535KA8Q4
+uGHq9MZ3VKAFnimkF3i/qRa5ayV3TTXM7wATPAHQrd6YZ2WaNa2wJ6zgBcYuIrmq
+7aKFnF0Bk0iOvJCIAN2Q/mLnTH2vK9l3ivmtdGhddAQFg3RtDSUoVqBbWWF59NUV
+RCCYLQD1UYpmQL/IIGALTU2dLXqHGza8xu8xs9ojpKjk1sR3ku3fBTSucQB2op4B
+X7UzQqlqZPo1EqxGuSfl2zSoKS5qP2pf7SmcnLpi1lE9IGbDEMbW08wCni+Iopua
+Cv5E64JoCFGud0+mgY98XtOHMA51H/A+IwQ=
+-----END CERTIFICATE-----
