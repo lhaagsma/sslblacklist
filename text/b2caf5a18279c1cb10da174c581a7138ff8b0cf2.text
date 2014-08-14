@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 14685546742947634419 (0xcbcd8af491c9dcf3)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=FL, L=miami, O=Google, OU=google, CN=94.23.236.54/emailAddress=root@google.com
+        Validity
+            Not Before: Jul 24 15:53:38 2014 GMT
+            Not After : Jul 24 15:53:38 2015 GMT
+        Subject: C=US, ST=FL, L=miami, O=Google, OU=google, CN=94.23.236.54/emailAddress=root@google.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c9:ac:d2:c9:dc:c0:da:22:2f:0f:07:c7:09:8c:
+                    fb:4e:50:20:29:51:2c:2b:28:fd:40:e1:24:b4:dc:
+                    eb:6a:52:fd:d5:82:91:50:13:2b:25:63:27:d5:e3:
+                    50:1a:45:43:a9:ca:88:99:41:18:ab:5c:88:54:8f:
+                    70:07:df:74:61:b4:97:bc:ab:81:f7:57:72:8b:ee:
+                    13:10:54:72:ac:02:47:94:68:9f:d2:c5:cc:9b:53:
+                    0c:9d:96:15:1c:f4:b7:42:25:d9:1f:b9:f5:f6:18:
+                    75:6b:03:30:c3:c2:a0:76:fe:94:97:25:91:d9:89:
+                    34:b9:52:55:de:e5:93:e4:53
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         5f:3d:60:e6:ca:dd:36:56:39:23:0e:30:8b:39:b1:f1:a4:f2:
+         89:30:cd:85:fb:26:5c:7e:7e:b9:d6:95:9b:18:c6:be:dd:8f:
+         c6:9f:2c:e0:93:84:1d:48:dd:1e:f9:47:28:59:f0:fa:54:4f:
+         be:88:96:ae:03:45:94:14:ac:0d:4a:52:12:21:dd:65:69:0f:
+         5f:35:ea:58:bf:cb:ca:d2:2d:a3:f0:43:5d:33:5c:6d:12:86:
+         3d:7c:40:64:7e:05:59:84:4f:7e:e9:97:c9:78:71:05:ad:c4:
+         e8:67:4c:18:f9:26:77:ee:79:06:de:c5:b4:8d:fe:d3:cf:9b:
+         8c:af
+-----BEGIN CERTIFICATE-----
+MIICfzCCAegCCQDLzYr0kcnc8zANBgkqhkiG9w0BAQUFADCBgzELMAkGA1UEBhMC
+VVMxCzAJBgNVBAgMAkZMMQ4wDAYDVQQHDAVtaWFtaTEPMA0GA1UECgwGR29vZ2xl
+MQ8wDQYDVQQLDAZnb29nbGUxFTATBgNVBAMMDDk0LjIzLjIzNi41NDEeMBwGCSqG
+SIb3DQEJARYPcm9vdEBnb29nbGUuY29tMB4XDTE0MDcyNDE1NTMzOFoXDTE1MDcy
+NDE1NTMzOFowgYMxCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJGTDEOMAwGA1UEBwwF
+bWlhbWkxDzANBgNVBAoMBkdvb2dsZTEPMA0GA1UECwwGZ29vZ2xlMRUwEwYDVQQD
+DAw5NC4yMy4yMzYuNTQxHjAcBgkqhkiG9w0BCQEWD3Jvb3RAZ29vZ2xlLmNvbTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyazSydzA2iIvDwfHCYz7TlAgKVEs
+Kyj9QOEktNzralL91YKRUBMrJWMn1eNQGkVDqcqImUEYq1yIVI9wB990YbSXvKuB
+91dyi+4TEFRyrAJHlGif0sXMm1MMnZYVHPS3QiXZH7n19hh1awMww8Kgdv6UlyWR
+2Yk0uVJV3uWT5FMCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBfPWDmyt02VjkjDjCL
+ObHxpPKJMM2F+yZcfn651pWbGMa+3Y/Gnyzgk4QdSN0e+UcoWfD6VE++iJauA0WU
+FKwNSlISId1laQ9fNepYv8vK0i2j8ENdM1xtEoY9fEBkfgVZhE9+6ZfJeHEFrcTo
+Z0wY+SZ37nkG3sW0jf7Tz5uMrw==
+-----END CERTIFICATE-----

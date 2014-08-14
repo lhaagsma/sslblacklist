@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 17890807211971557966 (0xf848ea5ea68fba4e)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=US, L=US, O=US, OU=COmonGOgo, CN=kpai7ycr7jxqkilp.totortoweb.com/emailAddress=admin@kpai7ycr7jxqkilp.totortoweb.com
+        Validity
+            Not Before: Aug 13 10:14:34 2014 GMT
+            Not After : Aug 10 10:14:34 2024 GMT
+        Subject: C=US, ST=US, L=US, O=US, OU=COmonGOgo, CN=kpai7ycr7jxqkilp.totortoweb.com/emailAddress=admin@kpai7ycr7jxqkilp.totortoweb.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:cb:81:a8:17:3f:15:88:b2:30:60:e5:74:ec:1e:
+                    d6:20:7d:2b:35:6f:fc:31:a8:82:c9:2e:eb:40:09:
+                    bf:94:48:c7:6a:a8:72:f1:a0:c3:98:db:d3:bb:f9:
+                    6f:f1:d6:c4:e1:d1:d4:e5:09:f8:ad:72:99:6a:2d:
+                    0b:5e:85:75:3e:01:1d:ed:65:d6:94:91:9f:99:d2:
+                    dd:88:15:55:a0:c6:82:cc:82:a7:dd:58:38:b3:04:
+                    a1:29:9d:39:39:e0:1f:0d:9b:7b:b2:3a:db:b6:54:
+                    d0:08:1e:d5:e4:b1:57:fd:51:12:a7:36:a0:db:5b:
+                    9f:6a:5e:2e:db:51:ee:9a:95
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         02:2d:fd:78:59:26:39:60:ca:7f:cd:1e:51:d1:a4:90:23:2a:
+         ae:d0:c2:84:e8:01:5b:ca:04:ab:2a:fe:26:53:61:49:d2:77:
+         ed:7a:27:60:80:46:ea:a2:23:61:85:92:43:90:cf:46:23:09:
+         ff:1e:ca:67:fe:9d:b5:ca:e7:1b:71:7c:75:28:db:23:bc:79:
+         9a:8b:dd:81:33:27:15:42:eb:b8:e9:c5:9e:f5:0b:31:06:24:
+         6a:80:0d:e0:73:1b:dc:d9:ad:02:ff:1c:5a:ea:19:64:7a:41:
+         ea:fd:e7:56:b2:9a:0c:0d:4d:b3:77:a9:75:01:88:ca:4c:d9:
+         36:1a
+-----BEGIN CERTIFICATE-----
+MIICyTCCAjICCQD4SOpepo+6TjANBgkqhkiG9w0BAQUFADCBqDELMAkGA1UEBhMC
+VVMxCzAJBgNVBAgMAlVTMQswCQYDVQQHDAJVUzELMAkGA1UECgwCVVMxEjAQBgNV
+BAsMCUNPbW9uR09nbzEoMCYGA1UEAwwfa3BhaTd5Y3I3anhxa2lscC50b3RvcnRv
+d2ViLmNvbTE0MDIGCSqGSIb3DQEJARYlYWRtaW5Aa3BhaTd5Y3I3anhxa2lscC50
+b3RvcnRvd2ViLmNvbTAeFw0xNDA4MTMxMDE0MzRaFw0yNDA4MTAxMDE0MzRaMIGo
+MQswCQYDVQQGEwJVUzELMAkGA1UECAwCVVMxCzAJBgNVBAcMAlVTMQswCQYDVQQK
+DAJVUzESMBAGA1UECwwJQ09tb25HT2dvMSgwJgYDVQQDDB9rcGFpN3ljcjdqeHFr
+aWxwLnRvdG9ydG93ZWIuY29tMTQwMgYJKoZIhvcNAQkBFiVhZG1pbkBrcGFpN3lj
+cjdqeHFraWxwLnRvdG9ydG93ZWIuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQDLgagXPxWIsjBg5XTsHtYgfSs1b/wxqILJLutACb+USMdqqHLxoMOY29O7
++W/x1sTh0dTlCfitcplqLQtehXU+AR3tZdaUkZ+Z0t2IFVWgxoLMgqfdWDizBKEp
+nTk54B8Nm3uyOtu2VNAIHtXksVf9URKnNqDbW59qXi7bUe6alQIDAQABMA0GCSqG
+SIb3DQEBBQUAA4GBAAIt/XhZJjlgyn/NHlHRpJAjKq7QwoToAVvKBKsq/iZTYUnS
+d+16J2CARuqiI2GFkkOQz0YjCf8eymf+nbXK5xtxfHUo2yO8eZqL3YEzJxVC67jp
+xZ71CzEGJGqADeBzG9zZrQL/HFrqGWR6Qer951aymgwNTbN3qXUBiMpM2TYa
+-----END CERTIFICATE-----

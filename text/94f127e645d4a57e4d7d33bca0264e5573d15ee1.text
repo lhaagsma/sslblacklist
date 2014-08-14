@@ -1,0 +1,107 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 620366 (0x9774e)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=GeoTrust Inc., OU=Domain Validated SSL, CN=GeoTrust DV SSL CA
+        Validity
+            Not Before: Jun 14 05:48:21 2014 GMT
+            Not After : Jun 16 11:30:21 2015 GMT
+        Subject: serialNumber=txDgjZXx5ToycVzIyxVD3U8ZhqIKUppg, OU=GT30694647, OU=See www.geotrust.com/resources/cps (c)14, OU=Domain Control Validated - QuickSSL(R), CN=alohafriends12.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ba:fa:e0:db:1c:72:0b:22:31:1a:67:9d:4c:65:
+                    26:84:b6:66:9e:42:e5:94:8c:bd:ec:c7:c0:e7:42:
+                    31:a1:88:56:c1:14:4f:b7:8d:5b:67:00:05:b0:2a:
+                    a1:e5:52:45:87:26:06:b2:5b:92:2a:78:a7:21:1e:
+                    47:fb:e4:74:ab:3f:59:12:84:09:6c:b1:9d:e4:a1:
+                    c8:6d:e9:68:5f:d8:c3:cb:32:29:ae:19:55:eb:2b:
+                    fd:c0:16:17:28:74:9e:b4:ae:a8:2c:bd:e3:d9:df:
+                    ac:ed:d0:3a:09:d9:45:84:b3:f0:ee:02:8e:a0:d8:
+                    c3:76:c6:c1:e7:c4:d3:64:46:ad:00:4b:3e:9f:06:
+                    cf:c5:43:51:8a:10:d2:21:aa:9a:47:3c:d5:ce:30:
+                    73:22:b8:9b:3d:12:61:7f:14:f2:fc:61:55:cd:b2:
+                    33:6a:c4:59:0d:37:7c:a7:92:a7:82:3f:3b:8d:ba:
+                    cd:73:70:06:7c:13:0c:77:e5:47:b7:c4:e4:41:74:
+                    04:4a:23:4d:6a:b8:04:05:9f:28:48:38:a2:14:52:
+                    e8:5b:79:59:9d:67:9c:67:67:8c:e7:9e:6a:a0:42:
+                    87:51:0f:4a:83:ab:67:a8:08:6d:a8:1e:b5:d3:86:
+                    bc:31:ee:21:84:3d:bd:d9:d8:ba:6c:04:b7:79:bb:
+                    cc:cd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8C:F4:D9:93:0A:47:BC:00:A0:4A:CE:4B:75:6E:A0:B6:B0:B2:7E:FC
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:alohafriends12.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://gtssldv-crl.geotrust.com/crls/gtssldv.crl
+
+            X509v3 Subject Key Identifier: 
+                13:29:D0:BA:B8:1B:9B:0F:A3:7C:FF:59:AD:AB:7A:AD:BA:EB:2C:44
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            Authority Information Access: 
+                OCSP - URI:http://gtssldv-ocsp.geotrust.com
+                CA Issuers - URI:http://gtssldv-aia.geotrust.com/gtssldv.crt
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: http://www.geotrust.com/resources/cps
+
+    Signature Algorithm: sha1WithRSAEncryption
+         80:33:d4:44:99:b7:cf:48:2e:63:c4:9f:a5:06:53:cd:ba:15:
+         5b:2b:47:80:a3:5f:86:2c:1b:43:e0:b8:e9:c8:6c:7f:9e:31:
+         c8:70:92:e5:cb:f2:3c:b9:67:01:82:3a:51:89:b4:6d:d2:a0:
+         9a:f2:76:b5:b4:fc:b7:a4:ef:90:e2:f1:40:28:6b:16:92:33:
+         a8:a4:83:4d:71:d1:55:5f:63:a6:36:f9:49:a8:3a:ae:c7:e0:
+         af:bb:1d:7f:cf:86:d4:0e:4a:45:bf:a3:0a:e4:35:64:d7:87:
+         79:60:84:61:d8:26:4f:5c:8a:f5:93:ec:ba:41:92:c9:39:22:
+         b1:dd:d8:7e:9e:6c:12:73:f3:b3:9c:36:16:b8:95:a9:25:f4:
+         ef:dc:62:78:9f:8e:ab:f8:7a:d7:79:cd:0f:73:6f:46:5e:e9:
+         93:52:57:38:ef:0d:c3:a2:09:80:b7:1b:35:3d:e6:b7:df:33:
+         64:03:9f:55:fe:6a:74:d4:51:3a:d6:22:95:f5:29:cc:8d:17:
+         91:ef:14:94:bc:f1:02:5f:96:73:6c:df:37:0d:c5:98:78:0b:
+         ae:77:b2:3e:50:40:02:5a:3e:e4:2d:15:7f:7c:9c:3b:db:7c:
+         30:62:62:35:4b:8f:b5:69:ce:1f:a6:4b:71:90:21:0b:1b:af:
+         7e:6e:a4:08
+-----BEGIN CERTIFICATE-----
+MIIFSjCCBDKgAwIBAgIDCXdOMA0GCSqGSIb3DQEBBQUAMGExCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMR0wGwYDVQQLExREb21haW4gVmFsaWRh
+dGVkIFNTTDEbMBkGA1UEAxMSR2VvVHJ1c3QgRFYgU1NMIENBMB4XDTE0MDYxNDA1
+NDgyMVoXDTE1MDYxNjExMzAyMVowgcExKTAnBgNVBAUTIHR4RGdqWlh4NVRveWNW
+ekl5eFZEM1U4WmhxSUtVcHBnMRMwEQYDVQQLEwpHVDMwNjk0NjQ3MTEwLwYDVQQL
+EyhTZWUgd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvY3BzIChjKTE0MS8wLQYD
+VQQLEyZEb21haW4gQ29udHJvbCBWYWxpZGF0ZWQgLSBRdWlja1NTTChSKTEbMBkG
+A1UEAxMSYWxvaGFmcmllbmRzMTIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAuvrg2xxyCyIxGmedTGUmhLZmnkLllIy97MfA50IxoYhWwRRPt41b
+ZwAFsCqh5VJFhyYGsluSKninIR5H++R0qz9ZEoQJbLGd5KHIbeloX9jDyzIprhlV
+6yv9wBYXKHSetK6oLL3j2d+s7dA6CdlFhLPw7gKOoNjDdsbB58TTZEatAEs+nwbP
+xUNRihDSIaqaRzzVzjBzIribPRJhfxTy/GFVzbIzasRZDTd8p5Kngj87jbrNc3AG
+fBMMd+VHt8TkQXQESiNNargEBZ8oSDiiFFLoW3lZnWecZ2eM555qoEKHUQ9Kg6tn
+qAhtqB6104a8Me4hhD292di6bAS3ebvMzQIDAQABo4IBqDCCAaQwHwYDVR0jBBgw
+FoAUjPTZkwpHvACgSs5LdW6gtrCyfvwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAdBgNVHREEFjAUghJhbG9oYWZyaWVuZHMx
+Mi5jb20wQQYDVR0fBDowODA2oDSgMoYwaHR0cDovL2d0c3NsZHYtY3JsLmdlb3Ry
+dXN0LmNvbS9jcmxzL2d0c3NsZHYuY3JsMB0GA1UdDgQWBBQTKdC6uBubD6N8/1mt
+q3qtuussRDAMBgNVHRMBAf8EAjAAMHUGCCsGAQUFBwEBBGkwZzAsBggrBgEFBQcw
+AYYgaHR0cDovL2d0c3NsZHYtb2NzcC5nZW90cnVzdC5jb20wNwYIKwYBBQUHMAKG
+K2h0dHA6Ly9ndHNzbGR2LWFpYS5nZW90cnVzdC5jb20vZ3Rzc2xkdi5jcnQwTAYD
+VR0gBEUwQzBBBgpghkgBhvhFAQc2MDMwMQYIKwYBBQUHAgEWJWh0dHA6Ly93d3cu
+Z2VvdHJ1c3QuY29tL3Jlc291cmNlcy9jcHMwDQYJKoZIhvcNAQEFBQADggEBAIAz
+1ESZt89ILmPEn6UGU826FVsrR4CjX4YsG0PguOnIbH+eMchwkuXL8jy5ZwGCOlGJ
+tG3SoJrydrW0/Lek75Di8UAoaxaSM6ikg01x0VVfY6Y2+UmoOq7H4K+7HX/PhtQO
+SkW/owrkNWTXh3lghGHYJk9civWT7LpBksk5IrHd2H6ebBJz87OcNha4lakl9O/c
+Ynifjqv4etd5zQ9zb0Ze6ZNSVzjvDcOiCYC3GzU95rffM2QDn1X+anTUUTrWIpX1
+KcyNF5HvFJS88QJflnNs3zcNxZh4C653sj5QQAJaPuQtFX98nDvbfDBiYjVLj7Vp
+zh+mS3GQIQsbr35upAg=
+-----END CERTIFICATE-----
