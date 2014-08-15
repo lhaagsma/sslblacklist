@@ -1,0 +1,119 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1136296 (0x1156a8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Class 1 Primary Intermediate Server CA
+        Validity
+            Not Before: Jun 29 07:18:19 2014 GMT
+            Not After : Jun 30 22:28:13 2015 GMT
+        Subject: description=8a0dun7Z4hhvHDMJ, C=RU, CN=www.securessl.in/emailAddress=hostmaster@securessl.in
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d6:a4:b9:81:32:5c:3a:5c:3d:51:7d:a0:07:b8:
+                    3d:45:2c:d4:46:9b:a4:0e:03:e0:77:22:b9:a0:1e:
+                    5a:f3:7f:52:7a:e8:36:4b:55:14:c6:17:34:4e:e9:
+                    a5:95:f1:85:ae:0f:31:05:e1:81:ff:99:9a:c8:b4:
+                    b8:fa:eb:35:3e:ba:ca:2d:d7:57:ab:76:86:86:1c:
+                    7a:dc:36:21:7d:f6:f9:d6:19:58:5d:b4:4e:a7:90:
+                    03:d1:bb:69:27:b6:61:29:eb:8a:15:4a:9a:42:13:
+                    7e:fc:70:bb:18:2a:5e:26:f6:4c:da:f9:f7:0f:b2:
+                    ab:1d:06:a0:7f:b4:24:6e:c9:a1:17:cd:59:14:30:
+                    a2:e7:01:a4:88:5e:ab:d8:94:28:8c:03:a5:11:83:
+                    16:27:16:b2:81:13:a7:57:6b:a4:9c:11:c6:91:9f:
+                    39:fd:03:de:44:13:cb:19:97:18:84:b7:b6:00:74:
+                    c3:af:24:7b:5c:ac:dc:99:5b:ca:dd:c3:41:92:0c:
+                    79:ee:9a:7b:45:47:a2:8a:7a:7f:37:b0:51:59:3e:
+                    ff:03:a5:6c:c3:a7:9d:22:4c:9d:68:2e:5c:84:82:
+                    bf:a9:d9:fc:1f:ff:0f:67:9e:9b:f8:b5:c5:79:8a:
+                    d6:08:e3:e1:64:cc:d4:ae:c5:98:77:91:82:cc:87:
+                    99:ed
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment, Key Agreement
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Subject Key Identifier: 
+                2C:72:E2:75:28:6E:4B:80:CA:4A:FD:B5:6C:20:EB:DE:2B:D9:CC:78
+            X509v3 Authority Key Identifier: 
+                keyid:EB:42:34:D0:98:B0:AB:9F:F4:1B:6B:08:F7:CC:64:2E:EF:0E:2C:45
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.securessl.in, DNS:securessl.in
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.23223.1.2.3
+                  CPS: http://www.startssl.com/policy.pdf
+                  User Notice:
+                    Organization: StartCom Certification Authority
+                    Number: 1
+                    Explicit Text: This certificate was issued according to the Class 1 Validation requirements of the StartCom CA policy, reliance only for the intended purpose in compliance of the relying party obligations.
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.startssl.com/crt1-crl.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.startssl.com/sub/class1/server/ca
+                CA Issuers - URI:http://aia.startssl.com/certs/sub.class1.server.ca.crt
+
+            X509v3 Issuer Alternative Name: 
+                URI:http://www.startssl.com/
+    Signature Algorithm: sha1WithRSAEncryption
+         1e:4a:8a:f5:c5:bb:ea:b2:0a:df:ca:83:3d:9b:9e:92:56:ba:
+         37:e8:61:45:d7:83:30:8f:26:ed:f3:76:e0:c1:77:87:d5:1b:
+         2b:ca:c1:85:86:32:5c:fe:dd:5c:ee:da:25:b6:7a:d7:52:89:
+         c5:48:ec:b0:3a:2a:cb:e2:da:6b:86:c6:27:20:b8:48:71:9f:
+         50:c5:67:b8:87:b0:71:c1:2c:f0:57:d4:92:8c:c3:72:10:23:
+         ec:68:85:d6:8a:0e:d9:59:a8:be:e3:de:45:87:74:a2:9d:34:
+         7b:2f:c0:90:95:ac:9c:97:98:6c:71:b0:ac:b2:48:64:59:40:
+         09:a5:3d:74:b1:52:ab:69:70:7c:d1:3d:0b:08:3e:c7:83:a5:
+         79:cc:a1:de:f2:e2:40:5c:40:85:bd:af:22:6b:33:e1:f0:dd:
+         6c:b9:fb:10:79:94:5c:47:14:94:9d:27:88:98:5e:89:8e:cc:
+         be:61:74:b8:6e:51:4e:13:21:4c:26:48:8f:27:a9:8c:1a:80:
+         64:6c:40:36:bb:16:9b:ef:01:9c:67:21:de:99:43:98:20:4b:
+         41:98:7f:66:cd:3a:0b:22:b6:54:b6:66:a9:ac:f2:21:c5:49:
+         ee:e1:df:f3:0c:36:d7:55:a2:89:44:96:67:7d:1b:82:a7:2e:
+         aa:67:fe:fc
+-----BEGIN CERTIFICATE-----
+MIIGWjCCBUKgAwIBAgIDEVaoMA0GCSqGSIb3DQEBBQUAMIGMMQswCQYDVQQGEwJJ
+TDEWMBQGA1UEChMNU3RhcnRDb20gTHRkLjErMCkGA1UECxMiU2VjdXJlIERpZ2l0
+YWwgQ2VydGlmaWNhdGUgU2lnbmluZzE4MDYGA1UEAxMvU3RhcnRDb20gQ2xhc3Mg
+MSBQcmltYXJ5IEludGVybWVkaWF0ZSBTZXJ2ZXIgQ0EwHhcNMTQwNjI5MDcxODE5
+WhcNMTUwNjMwMjIyODEzWjBrMRkwFwYDVQQNExA4YTBkdW43WjRoaHZIRE1KMQsw
+CQYDVQQGEwJSVTEZMBcGA1UEAxMQd3d3LnNlY3VyZXNzbC5pbjEmMCQGCSqGSIb3
+DQEJARYXaG9zdG1hc3RlckBzZWN1cmVzc2wuaW4wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDWpLmBMlw6XD1RfaAHuD1FLNRGm6QOA+B3IrmgHlrzf1J6
+6DZLVRTGFzRO6aWV8YWuDzEF4YH/mZrItLj66zU+usot11erdoaGHHrcNiF99vnW
+GVhdtE6nkAPRu2kntmEp64oVSppCE378cLsYKl4m9kza+fcPsqsdBqB/tCRuyaEX
+zVkUMKLnAaSIXqvYlCiMA6URgxYnFrKBE6dXa6ScEcaRnzn9A95EE8sZlxiEt7YA
+dMOvJHtcrNyZW8rdw0GSDHnumntFR6KKen83sFFZPv8DpWzDp50iTJ1oLlyEgr+p
+2fwf/w9nnpv4tcV5itYI4+FkzNSuxZh3kYLMh5ntAgMBAAGjggLjMIIC3zAJBgNV
+HRMEAjAAMAsGA1UdDwQEAwIDqDATBgNVHSUEDDAKBggrBgEFBQcDATAdBgNVHQ4E
+FgQULHLidShuS4DKSv21bCDr3ivZzHgwHwYDVR0jBBgwFoAU60I00Jiwq5/0G2sI
+98xkLu8OLEUwKQYDVR0RBCIwIIIQd3d3LnNlY3VyZXNzbC5pboIMc2VjdXJlc3Ns
+LmluMIIBVgYDVR0gBIIBTTCCAUkwCAYGZ4EMAQIBMIIBOwYLKwYBBAGBtTcBAgMw
+ggEqMC4GCCsGAQUFBwIBFiJodHRwOi8vd3d3LnN0YXJ0c3NsLmNvbS9wb2xpY3ku
+cGRmMIH3BggrBgEFBQcCAjCB6jAnFiBTdGFydENvbSBDZXJ0aWZpY2F0aW9uIEF1
+dGhvcml0eTADAgEBGoG+VGhpcyBjZXJ0aWZpY2F0ZSB3YXMgaXNzdWVkIGFjY29y
+ZGluZyB0byB0aGUgQ2xhc3MgMSBWYWxpZGF0aW9uIHJlcXVpcmVtZW50cyBvZiB0
+aGUgU3RhcnRDb20gQ0EgcG9saWN5LCByZWxpYW5jZSBvbmx5IGZvciB0aGUgaW50
+ZW5kZWQgcHVycG9zZSBpbiBjb21wbGlhbmNlIG9mIHRoZSByZWx5aW5nIHBhcnR5
+IG9ibGlnYXRpb25zLjA1BgNVHR8ELjAsMCqgKKAmhiRodHRwOi8vY3JsLnN0YXJ0
+c3NsLmNvbS9jcnQxLWNybC5jcmwwgY4GCCsGAQUFBwEBBIGBMH8wOQYIKwYBBQUH
+MAGGLWh0dHA6Ly9vY3NwLnN0YXJ0c3NsLmNvbS9zdWIvY2xhc3MxL3NlcnZlci9j
+YTBCBggrBgEFBQcwAoY2aHR0cDovL2FpYS5zdGFydHNzbC5jb20vY2VydHMvc3Vi
+LmNsYXNzMS5zZXJ2ZXIuY2EuY3J0MCMGA1UdEgQcMBqGGGh0dHA6Ly93d3cuc3Rh
+cnRzc2wuY29tLzANBgkqhkiG9w0BAQUFAAOCAQEAHkqK9cW76rIK38qDPZuekla6
+N+hhRdeDMI8m7fN24MF3h9UbK8rBhYYyXP7dXO7aJbZ611KJxUjssDoqy+Laa4bG
+JyC4SHGfUMVnuIewccEs8FfUkozDchAj7GiF1ooO2VmovuPeRYd0op00ey/AkJWs
+nJeYbHGwrLJIZFlACaU9dLFSq2lwfNE9Cwg+x4Olecyh3vLiQFxAhb2vImsz4fDd
+bLn7EHmUXEcUlJ0niJheiY7MvmF0uG5RThMhTCZIjyepjBqAZGxANrsWm+8BnGch
+3plDmCBLQZh/Zs06CyK2VLZmqazyIcVJ7uHf8ww211WiiUSWZ30bgqcuqmf+/A==
+-----END CERTIFICATE-----
