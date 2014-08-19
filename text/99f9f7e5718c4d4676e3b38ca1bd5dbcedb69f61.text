@@ -1,0 +1,107 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            a5:03:a5:43:c0:74:50:54:b8:52:10:aa:3f:34:e5:9b
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=EssentialSSL CA
+        Validity
+            Not Before: Jul 28 00:00:00 2014 GMT
+            Not After : Oct 26 23:59:59 2014 GMT
+        Subject: OU=Domain Control Validated, OU=Free SSL, CN=zao-sky.ru
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c5:bc:c8:4e:3e:1a:1f:6d:46:d4:be:33:ac:38:
+                    d7:8c:54:c4:4e:ed:76:b5:aa:f9:f1:55:2d:31:9a:
+                    cf:93:33:85:b6:a9:19:31:40:d9:d6:3c:94:4c:0f:
+                    e3:b5:b1:bf:61:75:c7:0d:39:87:ba:44:8e:d7:5f:
+                    ff:89:cd:48:0a:ac:92:0b:96:8b:76:7b:c1:b4:1d:
+                    c6:85:9b:d4:9d:ac:f5:12:05:08:8c:1c:7c:03:9a:
+                    29:5a:06:47:a9:04:c3:8f:31:16:aa:85:eb:9b:0f:
+                    84:3f:2d:ae:50:19:b5:9f:7c:ca:77:9f:d4:68:15:
+                    a7:21:7f:49:90:c4:0d:a6:dc:f9:41:89:c0:c3:f4:
+                    52:d5:bc:58:b3:a1:7d:9b:19:6b:4a:9d:49:4d:6a:
+                    9d:87:09:10:9c:74:83:a7:32:93:de:3d:04:b9:c7:
+                    ea:d7:e3:d3:2a:cc:f7:c3:dd:6e:26:d9:0b:71:50:
+                    ca:02:b2:2a:35:36:fc:55:e6:47:b6:6b:0e:af:60:
+                    1b:2a:dc:d3:d5:70:6e:08:bb:db:4c:28:4f:d5:03:
+                    f3:b3:19:ad:2d:76:b4:2b:af:3f:f5:93:d7:9d:85:
+                    3f:ef:5a:c8:0b:3a:08:ab:85:12:ff:a2:f7:9e:85:
+                    5d:ea:c6:a8:a6:d7:a5:b9:c7:e0:d7:5e:b2:4b:45:
+                    d0:cb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:CB:EA:AD:5B:08:5D:CC:FF:FC:26:54:CE:49:E5:55:C6:38:F4:F8
+
+            X509v3 Subject Key Identifier: 
+                A1:AB:26:BE:AD:50:22:C2:78:A0:A6:F2:F1:C9:40:D0:03:C5:5F:FE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.7
+                  CPS: https://secure.comodo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/EssentialSSLCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/EssentialSSLCA_2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:zao-sky.ru, DNS:www.zao-sky.ru
+    Signature Algorithm: sha1WithRSAEncryption
+         6e:8f:ca:84:3e:02:f6:71:09:18:ab:22:9a:5c:82:fa:f4:9f:
+         aa:61:01:3a:9d:21:2d:fa:93:79:79:f8:ac:d3:62:81:71:f0:
+         fc:b6:11:16:bb:9c:b8:e9:9e:7d:b7:5a:1f:b1:cd:99:fa:55:
+         a7:b0:7f:e8:c9:96:35:bb:26:37:0a:dc:04:9e:89:05:0d:c1:
+         b2:e3:58:8f:80:03:4b:3e:00:56:a3:9d:e4:a0:bd:5c:52:fc:
+         b5:18:96:03:d6:86:65:92:13:e9:4b:08:af:03:6d:55:3a:11:
+         48:de:d9:f1:58:b7:22:38:8f:c7:af:c9:a3:be:f9:fb:f7:26:
+         37:91:97:6e:8f:50:11:a2:f8:90:26:a5:66:da:f0:c8:6d:0b:
+         40:9c:fc:3e:9c:58:ff:e8:32:be:3d:a9:6f:3a:60:34:b3:a4:
+         77:cf:74:8e:bd:68:1d:18:6b:30:87:0b:e2:bc:a8:7a:f0:9f:
+         c9:f9:73:a0:ac:42:45:b6:25:16:97:dd:1c:57:77:2c:17:39:
+         00:44:d6:8a:ff:f9:85:e8:00:0b:21:7f:bc:c2:1d:b4:83:81:
+         ee:ee:68:19:21:e0:41:11:d0:ea:45:b8:1f:a7:c1:3f:1e:fe:
+         12:5f:c2:6b:4d:94:b2:a6:cd:3e:90:16:0f:b7:ce:66:40:f3:
+         cb:a8:75:7c
+-----BEGIN CERTIFICATE-----
+MIIFBzCCA++gAwIBAgIRAKUDpUPAdFBUuFIQqj805ZswDQYJKoZIhvcNAQEFBQAw
+cjELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxGDAWBgNV
+BAMTD0Vzc2VudGlhbFNTTCBDQTAeFw0xNDA3MjgwMDAwMDBaFw0xNDEwMjYyMzU5
+NTlaMEsxITAfBgNVBAsTGERvbWFpbiBDb250cm9sIFZhbGlkYXRlZDERMA8GA1UE
+CxMIRnJlZSBTU0wxEzARBgNVBAMTCnphby1za3kucnUwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDFvMhOPhofbUbUvjOsONeMVMRO7Xa1qvnxVS0xms+T
+M4W2qRkxQNnWPJRMD+O1sb9hdccNOYe6RI7XX/+JzUgKrJILlot2e8G0HcaFm9Sd
+rPUSBQiMHHwDmilaBkepBMOPMRaqheubD4Q/La5QGbWffMp3n9RoFachf0mQxA2m
+3PlBicDD9FLVvFizoX2bGWtKnUlNap2HCRCcdIOnMpPePQS5x+rX49MqzPfD3W4m
+2QtxUMoCsio1NvxV5ke2aw6vYBsq3NPVcG4Iu9tMKE/VA/OzGa0tdrQrrz/1k9ed
+hT/vWsgLOgirhRL/oveehV3qxqim16W5x+DXXrJLRdDLAgMBAAGjggG9MIIBuTAf
+BgNVHSMEGDAWgBTay+qtWwhdzP/8JlTOSeVVxjj0+DAdBgNVHQ4EFgQUoasmvq1Q
+IsJ4oKby8clA0APFX/4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwNAYD
+VR0lBC0wKwYIKwYBBQUHAwEGCCsGAQUFBwMCBgorBgEEAYI3CgMDBglghkgBhvhC
+BAEwTwYDVR0gBEgwRjA6BgsrBgEEAbIxAQICBzArMCkGCCsGAQUFBwIBFh1odHRw
+czovL3NlY3VyZS5jb21vZG8uY29tL0NQUzAIBgZngQwBAgEwOwYDVR0fBDQwMjAw
+oC6gLIYqaHR0cDovL2NybC5jb21vZG9jYS5jb20vRXNzZW50aWFsU1NMQ0EuY3Js
+MG4GCCsGAQUFBwEBBGIwYDA4BggrBgEFBQcwAoYsaHR0cDovL2NydC5jb21vZG9j
+YS5jb20vRXNzZW50aWFsU1NMQ0FfMi5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmNvbW9kb2NhLmNvbTAlBgNVHREEHjAcggp6YW8tc2t5LnJ1gg53d3cuemFv
+LXNreS5ydTANBgkqhkiG9w0BAQUFAAOCAQEAbo/KhD4C9nEJGKsimlyC+vSfqmEB
+Op0hLfqTeXn4rNNigXHw/LYRFrucuOmefbdaH7HNmfpVp7B/6MmWNbsmNwrcBJ6J
+BQ3BsuNYj4ADSz4AVqOd5KC9XFL8tRiWA9aGZZIT6UsIrwNtVToRSN7Z8Vi3IjiP
+x6/Jo775+/cmN5GXbo9QEaL4kCalZtrwyG0LQJz8PpxY/+gyvj2pbzpgNLOkd890
+jr1oHRhrMIcL4ryoevCfyflzoKxCRbYlFpfdHFd3LBc5AETWiv/5hegACyF/vMId
+tIOB7u5oGSHgQRHQ6kW4H6fBPx7+El/Ca02UsqbNPpAWD7fOZkDzy6h1fA==
+-----END CERTIFICATE-----
