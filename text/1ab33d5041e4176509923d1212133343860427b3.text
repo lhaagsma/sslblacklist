@@ -1,0 +1,52 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 13288037409110337740 (0xb868979edc1fa8cc)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=local, L=local, O=local, OU=local, CN=local.domain
+        Validity
+            Not Before: Aug 17 16:58:16 2014 GMT
+            Not After : Aug 17 16:58:16 2015 GMT
+        Subject: C=US, ST=local, L=local, O=local, OU=local, CN=local.domain
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:99:2c:32:cb:22:5c:fc:50:9b:98:43:84:c8:28:
+                    a7:97:c2:85:b2:e5:08:fd:de:95:51:82:86:75:67:
+                    f5:3a:12:3e:dc:e3:04:9c:b8:7f:56:fe:ef:d3:c0:
+                    a3:34:76:ea:99:ee:bf:76:e6:dc:e5:e1:cb:1e:ec:
+                    e7:88:a9:f8:8d:15:cf:4f:95:da:44:71:c3:a0:38:
+                    b7:3a:82:f3:06:12:a0:31:58:cd:af:14:d5:c8:43:
+                    27:62:ca:77:69:70:0e:2b:59:54:74:2b:83:33:ca:
+                    f0:0f:37:43:e5:41:69:14:6b:7e:96:26:18:a4:07:
+                    72:02:2a:a1:f8:e3:9a:e8:6d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:local.domain, DNS:www.local.domain, IP Address:192.168.1.2
+    Signature Algorithm: sha1WithRSAEncryption
+         50:8d:b6:46:02:cb:4a:43:fa:9c:eb:12:31:30:3a:c9:7b:0f:
+         6d:93:92:43:68:aa:6c:b7:b4:8b:f6:22:af:49:45:22:75:1e:
+         fb:4a:60:2b:f8:82:69:a5:6b:0d:ef:35:fa:5a:7f:aa:e4:b7:
+         7d:86:70:2e:fa:d0:53:74:d1:69:74:c0:27:53:4b:c2:12:23:
+         9b:1f:0d:83:e7:ac:5e:48:76:8d:34:ee:03:1b:ca:61:cf:b7:
+         94:47:4d:0d:9e:7a:60:96:8f:81:2c:e9:e1:3f:09:8f:10:74:
+         cd:71:87:e2:2a:83:1c:44:ad:5d:ee:79:ac:5e:da:ad:2a:ac:
+         9e:0a
+-----BEGIN CERTIFICATE-----
+MIICdDCCAd0CCQC4aJee3B+ozDANBgkqhkiG9w0BAQUFADBkMQswCQYDVQQGEwJV
+UzEOMAwGA1UECBMFbG9jYWwxDjAMBgNVBAcTBWxvY2FsMQ4wDAYDVQQKEwVsb2Nh
+bDEOMAwGA1UECxMFbG9jYWwxFTATBgNVBAMTDGxvY2FsLmRvbWFpbjAeFw0xNDA4
+MTcxNjU4MTZaFw0xNTA4MTcxNjU4MTZaMGQxCzAJBgNVBAYTAlVTMQ4wDAYDVQQI
+EwVsb2NhbDEOMAwGA1UEBxMFbG9jYWwxDjAMBgNVBAoTBWxvY2FsMQ4wDAYDVQQL
+EwVsb2NhbDEVMBMGA1UEAxMMbG9jYWwuZG9tYWluMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQCZLDLLIlz8UJuYQ4TIKKeXwoWy5Qj93pVRgoZ1Z/U6Ej7c4wSc
+uH9W/u/TwKM0duqZ7r925tzl4cse7OeIqfiNFc9PldpEccOgOLc6gvMGEqAxWM2v
+FNXIQydiyndpcA4rWVR0K4MzyvAPN0PlQWkUa36WJhikB3ICKqH445robQIDAQAB
+ozMwMTAvBgNVHREEKDAmggxsb2NhbC5kb21haW6CEHd3dy5sb2NhbC5kb21haW6H
+BMCoAQIwDQYJKoZIhvcNAQEFBQADgYEAUI22RgLLSkP6nOsSMTA6yXsPbZOSQ2iq
+bLe0i/Yir0lFInUe+0pgK/iCaaVrDe81+lp/quS3fYZwLvrQU3TRaXTAJ1NLwhIj
+mx8Ng+esXkh2jTTuAxvKYc+3lEdNDZ56YJaPgSzp4T8JjxB0zXGH4iqDHEStXe55
+rF7arSqsngo=
+-----END CERTIFICATE-----
