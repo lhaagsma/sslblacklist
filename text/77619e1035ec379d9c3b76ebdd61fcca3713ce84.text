@@ -1,0 +1,54 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 17584403793865279140 (0xf4085a15985f06a4)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=TX, L=Houston, O=Google Inc, OU=Google/emailAddress=groundbellsinc2@yahoo.com, CN=local.domain
+        Validity
+            Not Before: Aug 30 20:32:26 2014 GMT
+            Not After : Aug 30 20:32:26 2015 GMT
+        Subject: C=US, ST=TX, L=Houston, O=Google Inc, OU=Google/emailAddress=groundbellsinc2@yahoo.com, CN=local.domain
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d6:99:5a:1b:67:6f:d0:d7:db:23:12:a3:8c:9b:
+                    1d:be:9b:3b:b7:57:d5:5b:c1:88:72:ae:b9:56:06:
+                    f0:50:f3:b7:4c:cc:fa:c6:bd:cc:d3:05:1c:5f:0f:
+                    93:05:de:d2:4f:25:a7:b2:57:c0:d0:b1:cf:20:9c:
+                    71:10:13:fc:ed:4b:9b:67:18:cc:eb:39:50:e1:ea:
+                    8d:fb:84:a5:fc:bf:f7:e4:b4:e6:21:c7:78:6f:06:
+                    b5:7d:e2:ab:99:0b:e1:6f:2f:ac:89:5c:0f:a7:c3:
+                    a8:c8:96:0a:91:27:a0:d8:ac:06:8d:b9:0c:dd:e7:
+                    bf:a8:26:ee:fe:55:0e:b6:41
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:local.domain, DNS:www.local.domain, IP Address:192.168.1.2
+    Signature Algorithm: sha1WithRSAEncryption
+         94:9c:12:76:b3:af:97:e7:fe:c9:29:00:3e:cd:1e:1d:15:85:
+         10:b0:03:04:e9:a8:9b:15:23:08:a0:ae:3f:65:b3:ff:c7:36:
+         7b:7b:2c:06:61:e0:e3:46:4d:db:81:da:61:ff:1a:0b:45:bf:
+         0f:3d:6a:3f:f9:7c:59:72:9a:af:0d:62:70:87:d2:e8:d8:55:
+         7b:9a:ab:91:9c:2e:45:2c:a1:8e:3d:ec:a7:65:fc:ab:50:e9:
+         84:ee:e5:50:11:f8:4c:db:81:14:30:8c:60:c6:52:e4:44:04:
+         ba:a6:ec:2a:ee:61:bc:04:27:74:c8:ac:3a:fa:1b:d3:ec:34:
+         9c:9d
+-----BEGIN CERTIFICATE-----
+MIIC1DCCAj0CCQD0CFoVmF8GpDANBgkqhkiG9w0BAQUFADCBkzELMAkGA1UEBhMC
+VVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRMwEQYDVQQKEwpHb29n
+bGUgSW5jMQ8wDQYDVQQLEwZHb29nbGUxKDAmBgkqhkiG9w0BCQEWGWdyb3VuZGJl
+bGxzaW5jMkB5YWhvby5jb20xFTATBgNVBAMTDGxvY2FsLmRvbWFpbjAeFw0xNDA4
+MzAyMDMyMjZaFw0xNTA4MzAyMDMyMjZaMIGTMQswCQYDVQQGEwJVUzELMAkGA1UE
+CBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xEzARBgNVBAoTCkdvb2dsZSBJbmMxDzAN
+BgNVBAsTBkdvb2dsZTEoMCYGCSqGSIb3DQEJARYZZ3JvdW5kYmVsbHNpbmMyQHlh
+aG9vLmNvbTEVMBMGA1UEAxMMbG9jYWwuZG9tYWluMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQDWmVobZ2/Q19sjEqOMmx2+mzu3V9VbwYhyrrlWBvBQ87dMzPrG
+vczTBRxfD5MF3tJPJaeyV8DQsc8gnHEQE/ztS5tnGMzrOVDh6o37hKX8v/fktOYh
+x3hvBrV94quZC+FvL6yJXA+nw6jIlgqRJ6DYrAaNuQzd57+oJu7+VQ62QQIDAQAB
+ozMwMTAvBgNVHREEKDAmggxsb2NhbC5kb21haW6CEHd3dy5sb2NhbC5kb21haW6H
+BMCoAQIwDQYJKoZIhvcNAQEFBQADgYEAlJwSdrOvl+f+ySkAPs0eHRWFELADBOmo
+mxUjCKCuP2Wz/8c2e3ssBmHg40ZN24HaYf8aC0W/Dz1qP/l8WXKarw1icIfS6NhV
+e5qrkZwuRSyhjj3sp2X8q1DphO7lUBH4TNuBFDCMYMZS5EQEuqbsKu5hvAQndMis
+Ovob0+w0nJ0=
+-----END CERTIFICATE-----
