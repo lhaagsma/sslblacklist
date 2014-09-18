@@ -1,0 +1,36 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 16746233971575274164 (0xe86693126152bab4)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=sq, L=sq, O=Zatusim, CN=Zatusim.com
+        Validity
+            Not Before: Sep 11 10:30:16 2014 GMT
+            Not After : Jan 27 10:30:16 2023 GMT
+        Subject: C=AU, ST=sq, L=sq, O=Zatusim, CN=Zatusim.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (512 bit)
+                Modulus:
+                    00:cf:22:77:9f:89:60:09:7f:9d:e7:6c:44:31:d7:
+                    f7:ad:b1:c4:25:4b:40:68:ee:1f:03:6e:6a:f5:51:
+                    d4:69:ed:56:c6:f9:5b:c6:d4:85:b4:1f:27:b3:c2:
+                    9e:8e:a0:71:91:0a:ac:b1:3d:52:db:d4:b1:7b:37:
+                    cf:08:2b:1c:21
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         94:3d:57:73:2c:9f:be:f1:c9:26:be:c5:8c:74:4f:b8:4e:78:
+         2d:f5:a4:65:0f:51:00:f8:51:ec:67:40:1d:cc:00:5d:8e:ed:
+         1f:c3:97:61:16:33:1e:de:90:69:8c:8d:52:00:20:d7:d4:f9:
+         e5:77:c9:00:71:8b:2c:7c:f3:b3
+-----BEGIN CERTIFICATE-----
+MIIBkDCCAToCCQDoZpMSYVK6tDANBgkqhkiG9w0BAQUFADBPMQswCQYDVQQGEwJB
+VTELMAkGA1UECBMCc3ExCzAJBgNVBAcTAnNxMRAwDgYDVQQKEwdaYXR1c2ltMRQw
+EgYDVQQDEwtaYXR1c2ltLmNvbTAeFw0xNDA5MTExMDMwMTZaFw0yMzAxMjcxMDMw
+MTZaME8xCzAJBgNVBAYTAkFVMQswCQYDVQQIEwJzcTELMAkGA1UEBxMCc3ExEDAO
+BgNVBAoTB1phdHVzaW0xFDASBgNVBAMTC1phdHVzaW0uY29tMFwwDQYJKoZIhvcN
+AQEBBQADSwAwSAJBAM8id5+JYAl/nedsRDHX962xxCVLQGjuHwNuavVR1GntVsb5
+W8bUhbQfJ7PCno6gcZEKrLE9UtvUsXs3zwgrHCECAwEAATANBgkqhkiG9w0BAQUF
+AANBAJQ9V3Msn77xySa+xYx0T7hOeC31pGUPUQD4UexnQB3MAF2O7R/Dl2EWMx7e
+kGmMjVIAINfU+eV3yQBxiyx887M=
+-----END CERTIFICATE-----
