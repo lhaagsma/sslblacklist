@@ -1,0 +1,44 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 16789563900804797819 (0xe9008369b131157b)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=176.99.6.57
+        Validity
+            Not Before: Aug 28 13:01:31 2014 GMT
+            Not After : Aug 25 13:01:31 2024 GMT
+        Subject: CN=176.99.6.57
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:e3:30:b9:35:d2:35:ff:92:bb:9e:98:9d:fb:e1:
+                    04:23:cb:10:79:20:50:65:4a:3f:55:88:5c:07:b8:
+                    de:0a:25:2d:1a:a5:1f:11:99:ad:34:ac:9f:91:19:
+                    83:0a:66:40:f1:5f:8d:56:26:31:e8:d4:ea:a2:89:
+                    de:da:4c:0e:b6:32:25:83:36:37:c7:5b:0d:7b:0a:
+                    df:be:eb:81:42:bd:bc:ba:73:8f:41:a0:82:fe:da:
+                    b0:e0:cc:e4:f6:94:dc:9a:02:d0:98:ef:6a:d0:b3:
+                    d8:04:d6:b1:09:5c:82:31:e7:de:67:55:0d:db:88:
+                    e8:62:1d:a8:0a:96:38:83:47
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         2c:48:d7:71:98:e1:ab:c5:da:d7:08:4b:77:2c:21:80:1c:df:
+         e4:a1:c2:06:05:5b:aa:68:df:ff:3f:d3:f2:9e:b5:91:c8:15:
+         ab:37:e7:90:db:0a:1e:4b:39:33:b6:23:8e:ea:50:17:7b:6d:
+         ed:ad:e9:00:bc:34:63:5d:c8:f1:09:f9:65:ef:33:ad:27:0a:
+         88:5e:f1:46:37:40:82:45:a0:95:de:04:26:2a:cc:70:64:8a:
+         c0:a5:86:74:b2:d2:ae:bd:e6:ce:02:95:5f:44:94:aa:3a:c9:
+         08:32:62:e1:0e:0b:b3:88:0d:c6:6a:20:ae:9d:7b:02:8e:69:
+         89:ab
+-----BEGIN CERTIFICATE-----
+MIIBozCCAQwCCQDpAINpsTEVezANBgkqhkiG9w0BAQUFADAWMRQwEgYDVQQDEwsx
+NzYuOTkuNi41NzAeFw0xNDA4MjgxMzAxMzFaFw0yNDA4MjUxMzAxMzFaMBYxFDAS
+BgNVBAMTCzE3Ni45OS42LjU3MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDj
+MLk10jX/kruemJ374QQjyxB5IFBlSj9ViFwHuN4KJS0apR8Rma00rJ+RGYMKZkDx
+X41WJjHo1Oqiid7aTA62MiWDNjfHWw17Ct++64FCvby6c49BoIL+2rDgzOT2lNya
+AtCY72rQs9gE1rEJXIIx595nVQ3biOhiHagKljiDRwIDAQABMA0GCSqGSIb3DQEB
+BQUAA4GBACxI13GY4avF2tcIS3csIYAc3+ShwgYFW6po3/8/0/KetZHIFas355Db
+Ch5LOTO2I47qUBd7be2t6QC8NGNdyPEJ+WXvM60nCohe8UY3QIJFoJXeBCYqzHBk
+isClhnSy0q695s4ClV9ElKo6yQgyYuEOC7OIDcZqIK6dewKOaYmr
+-----END CERTIFICATE-----
