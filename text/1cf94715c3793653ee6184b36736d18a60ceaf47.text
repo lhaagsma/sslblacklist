@@ -1,0 +1,37 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 13495430300872831790 (0xbb49665b5691732e)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, CN=4yh6y/emailAddress=h@trt.com
+        Validity
+            Not Before: Dec  1 12:19:38 2014 GMT
+            Not After : Nov 26 12:19:38 2015 GMT
+        Subject: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, CN=4yh6y/emailAddress=h@trt.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (512 bit)
+                Modulus:
+                    00:cb:b3:92:ba:de:e5:3e:6f:cf:48:8a:25:2d:15:
+                    24:f8:13:b7:21:d7:96:07:f8:03:71:a9:88:64:65:
+                    00:a1:a3:a5:fc:59:c7:21:d2:79:3b:43:7f:ff:4a:
+                    3f:65:f1:0b:86:05:f2:e8:88:9f:47:8e:eb:73:db:
+                    6c:56:47:87:13
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         04:f9:cf:dd:00:4c:6a:fc:92:95:4e:8f:46:22:ed:fc:82:c5:
+         ac:31:8a:77:8a:be:77:f5:4c:af:fa:db:37:1e:c4:c1:1b:c3:
+         94:bf:65:4d:f5:ff:8a:81:31:50:12:b9:e4:f6:10:38:9f:49:
+         02:08:39:39:c4:b0:99:a5:39:66
+-----BEGIN CERTIFICATE-----
+MIIB0DCCAXoCCQC7SWZbVpFzLjANBgkqhkiG9w0BAQUFADBvMQswCQYDVQQGEwJB
+VTETMBEGA1UECAwKU29tZS1TdGF0ZTEhMB8GA1UECgwYSW50ZXJuZXQgV2lkZ2l0
+cyBQdHkgTHRkMQ4wDAYDVQQDDAU0eWg2eTEYMBYGCSqGSIb3DQEJARYJaEB0cnQu
+Y29tMB4XDTE0MTIwMTEyMTkzOFoXDTE1MTEyNjEyMTkzOFowbzELMAkGA1UEBhMC
+QVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoMGEludGVybmV0IFdpZGdp
+dHMgUHR5IEx0ZDEOMAwGA1UEAwwFNHloNnkxGDAWBgkqhkiG9w0BCQEWCWhAdHJ0
+LmNvbTBcMA0GCSqGSIb3DQEBAQUAA0sAMEgCQQDLs5K63uU+b89IiiUtFST4E7ch
+15YH+ANxqYhkZQCho6X8Wcch0nk7Q3//Sj9l8QuGBfLoiJ9Hjutz22xWR4cTAgMB
+AAEwDQYJKoZIhvcNAQEFBQADQQAE+c/dAExq/JKVTo9GIu38gsWsMYp3ir539Uyv
++ts3HsTBG8OUv2VN9f+KgTFQErnk9hA4n0kCCDk5xLCZpTlm
+-----END CERTIFICATE-----

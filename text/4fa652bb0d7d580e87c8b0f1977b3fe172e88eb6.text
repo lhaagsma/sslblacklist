@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 10049698806188768584 (0x8b77b3d1928c7d48)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd
+        Validity
+            Not Before: Aug 29 15:39:19 2014 GMT
+            Not After : Aug 24 15:39:19 2015 GMT
+        Subject: C=AU, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ae:40:1c:00:aa:b4:ec:10:fe:3a:6e:fc:71:0d:
+                    10:78:37:4b:42:ad:27:6a:a1:3c:0e:5e:06:85:a8:
+                    ed:b8:91:e8:98:34:f8:dc:ae:79:76:b9:82:c4:18:
+                    d6:c6:13:e7:35:bb:f1:fd:57:64:3d:b1:6c:96:b8:
+                    d5:52:43:b4:63:e1:ed:e0:02:aa:43:16:84:af:db:
+                    1b:ae:04:cd:3b:fe:52:d0:26:44:22:b3:bc:04:5e:
+                    a2:5a:98:4a:50:e5:54:66:9f:67:a1:02:4b:3f:8c:
+                    d6:89:82:2f:b4:ea:00:de:38:a1:66:0c:15:95:93:
+                    c0:07:9d:ee:b8:03:61:66:c9
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         8a:5a:e4:7c:b1:b3:74:6e:76:db:5b:11:55:ff:dd:86:0c:30:
+         83:6a:c4:11:7d:25:68:01:cf:e6:48:0f:cb:07:30:72:03:08:
+         10:85:4b:79:94:6f:1d:68:6f:23:dd:3f:4e:6d:ab:87:22:1a:
+         60:89:ff:06:91:fc:89:46:80:1e:c1:84:34:48:86:db:24:07:
+         63:4e:dd:c9:89:69:6f:38:53:94:a1:d6:78:69:51:29:95:4f:
+         62:6d:ba:57:ba:0e:31:f9:dc:a3:64:40:0a:87:8a:b2:bc:a1:
+         82:1e:78:52:c4:b5:30:c8:fe:64:00:bd:c3:f1:b4:d0:32:a8:
+         d2:4f
+-----BEGIN CERTIFICATE-----
+MIICATCCAWoCCQCLd7PRkox9SDANBgkqhkiG9w0BAQUFADBFMQswCQYDVQQGEwJB
+VTETMBEGA1UECAwKU29tZS1TdGF0ZTEhMB8GA1UECgwYSW50ZXJuZXQgV2lkZ2l0
+cyBQdHkgTHRkMB4XDTE0MDgyOTE1MzkxOVoXDTE1MDgyNDE1MzkxOVowRTELMAkG
+A1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoMGEludGVybmV0
+IFdpZGdpdHMgUHR5IEx0ZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArkAc
+AKq07BD+Om78cQ0QeDdLQq0naqE8Dl4GhajtuJHomDT43K55drmCxBjWxhPnNbvx
+/VdkPbFslrjVUkO0Y+Ht4AKqQxaEr9sbrgTNO/5S0CZEIrO8BF6iWphKUOVUZp9n
+oQJLP4zWiYIvtOoA3jihZgwVlZPAB53uuANhZskCAwEAATANBgkqhkiG9w0BAQUF
+AAOBgQCKWuR8sbN0bnbbWxFV/92GDDCDasQRfSVoAc/mSA/LBzByAwgQhUt5lG8d
+aG8j3T9ObauHIhpgif8GkfyJRoAewYQ0SIbbJAdjTt3JiWlvOFOUodZ4aVEplU9i
+bbpXug4x+dyjZEAKh4qyvKGCHnhSxLUwyP5kAL3D8bTQMqjSTw==
+-----END CERTIFICATE-----

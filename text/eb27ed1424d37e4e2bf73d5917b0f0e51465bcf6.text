@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 15352096014900828918 (0xd50d99fc95da9af6)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=sdfhghfgd, L=werthysfdg, O=sdfsb, OU=sdfghhjs, CN=adsfsf
+        Validity
+            Not Before: Dec 17 12:02:57 2014 GMT
+            Not After : Dec 12 12:02:57 2015 GMT
+        Subject: C=AU, ST=sdfhghfgd, L=werthysfdg, O=sdfsb, OU=sdfghhjs, CN=adsfsf
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:be:64:f9:e5:b8:f9:cc:bb:65:50:f8:53:26:57:
+                    5f:53:eb:6f:2b:41:8e:0a:7b:31:04:de:4b:b0:1b:
+                    ae:31:72:cd:cf:cd:eb:a5:30:06:a8:e0:07:62:c1:
+                    2c:78:dc:29:37:2a:d4:e2:e4:0a:9b:c3:49:8a:a5:
+                    a9:c4:1e:cc:e5:5a:90:dd:37:36:27:19:72:a2:5c:
+                    07:6c:07:1b:8a:ef:71:88:4f:a4:bd:a5:a6:70:bc:
+                    81:e3:6e:cd:61:6a:31:b4:cf:50:86:df:6f:13:54:
+                    87:bf:ce:15:62:35:8b:f2:96:37:6d:2e:a6:4e:e6:
+                    5f:26:1c:22:cb:ea:aa:21:a1
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         86:cf:8f:f1:1c:e6:46:2f:91:95:a2:8d:49:f1:a2:b4:47:c0:
+         d8:49:49:57:f2:8d:6a:a5:7e:17:35:70:65:3a:b3:12:23:80:
+         dd:b0:33:11:49:df:93:14:b4:24:b3:52:2c:92:9b:18:17:63:
+         92:1b:10:21:1c:ed:07:3b:33:77:a0:93:42:f3:05:6e:33:c7:
+         02:a1:55:f1:76:b2:a6:27:83:3d:4c:ed:79:a0:26:dc:07:11:
+         86:4b:b3:0e:7c:de:58:17:2e:cc:d0:6f:72:c7:b5:61:69:44:
+         8d:df:e2:2b:4a:77:5f:de:ca:b5:af:f2:7a:0e:7b:23:3f:a6:
+         b7:41
+-----BEGIN CERTIFICATE-----
+MIICSzCCAbQCCQDVDZn8ldqa9jANBgkqhkiG9w0BAQUFADBqMQswCQYDVQQGEwJB
+VTESMBAGA1UECAwJc2RmaGdoZmdkMRMwEQYDVQQHDAp3ZXJ0aHlzZmRnMQ4wDAYD
+VQQKDAVzZGZzYjERMA8GA1UECwwIc2RmZ2hoanMxDzANBgNVBAMMBmFkc2ZzZjAe
+Fw0xNDEyMTcxMjAyNTdaFw0xNTEyMTIxMjAyNTdaMGoxCzAJBgNVBAYTAkFVMRIw
+EAYDVQQIDAlzZGZoZ2hmZ2QxEzARBgNVBAcMCndlcnRoeXNmZGcxDjAMBgNVBAoM
+BXNkZnNiMREwDwYDVQQLDAhzZGZnaGhqczEPMA0GA1UEAwwGYWRzZnNmMIGfMA0G
+CSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+ZPnluPnMu2VQ+FMmV19T628rQY4KezEE
+3kuwG64xcs3PzeulMAao4AdiwSx43Ck3KtTi5Aqbw0mKpanEHszlWpDdNzYnGXKi
+XAdsBxuK73GIT6S9paZwvIHjbs1hajG0z1CG328TVIe/zhViNYvyljdtLqZO5l8m
+HCLL6qohoQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAIbPj/Ec5kYvkZWijUnxorRH
+wNhJSVfyjWqlfhc1cGU6sxIjgN2wMxFJ35MUtCSzUiySmxgXY5IbECEc7Qc7M3eg
+k0LzBW4zxwKhVfF2sqYngz1M7XmgJtwHEYZLsw583lgXLszQb3LHtWFpRI3f4itK
+d1/eyrWv8noOeyM/prdB
+-----END CERTIFICATE-----

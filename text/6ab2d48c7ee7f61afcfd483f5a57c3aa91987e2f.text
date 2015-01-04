@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 17117978867588849501 (0xed8f4715cb46df5d)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=fhjkye, L=zxcnhgds, O=wejdvnb, OU=sdfjhytuk, CN=dfsgjdy
+        Validity
+            Not Before: Dec 17 10:22:16 2014 GMT
+            Not After : Dec 12 10:22:16 2015 GMT
+        Subject: C=AU, ST=fhjkye, L=zxcnhgds, O=wejdvnb, OU=sdfjhytuk, CN=dfsgjdy
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a0:00:bb:06:7a:cf:06:87:4f:82:69:6a:e3:67:
+                    92:4c:b7:57:f9:69:65:a2:52:3e:f6:bb:8e:2c:fb:
+                    2b:2d:31:93:7e:42:b7:8a:98:ef:7f:75:3b:3f:a5:
+                    0f:18:49:b3:58:eb:d1:d4:78:c5:7c:57:4d:72:55:
+                    69:4f:1f:59:0e:ff:af:e6:09:39:bd:15:cc:d3:35:
+                    58:a2:dc:7c:9a:78:80:8b:66:87:d0:bf:64:33:d8:
+                    49:6b:ad:ff:ce:40:5d:19:63:5d:1d:60:06:10:58:
+                    9c:38:f0:da:2f:b8:c8:34:6d:d7:65:95:a9:82:45:
+                    48:6a:18:c3:47:5b:2e:ea:f7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         00:42:80:82:a6:1d:3e:9d:4a:9a:bd:8b:9f:a0:1a:d2:9b:f0:
+         df:5a:3a:1a:e8:b0:10:9b:27:07:44:33:0a:e5:71:49:c4:38:
+         f9:96:31:74:1a:d1:77:19:2e:d8:e8:07:96:b2:5f:7b:41:a8:
+         f1:2f:06:59:3d:b9:e8:fc:89:3d:e0:48:f7:aa:b5:7e:a2:19:
+         85:a4:89:73:d0:6d:7e:e6:74:da:bb:a6:90:8c:55:aa:b3:63:
+         82:bb:b2:52:c4:ae:ce:6f:5e:7b:ea:40:93:c4:84:1c:1b:76:
+         bb:1a:c2:af:90:ac:48:89:e5:fd:b1:c6:b8:f4:c5:7b:d0:95:
+         22:7b
+-----BEGIN CERTIFICATE-----
+MIICSTCCAbICCQDtj0cVy0bfXTANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQGEwJB
+VTEPMA0GA1UECAwGZmhqa3llMREwDwYDVQQHDAh6eGNuaGdkczEQMA4GA1UECgwH
+d2VqZHZuYjESMBAGA1UECwwJc2Rmamh5dHVrMRAwDgYDVQQDDAdkZnNnamR5MB4X
+DTE0MTIxNzEwMjIxNloXDTE1MTIxMjEwMjIxNlowaTELMAkGA1UEBhMCQVUxDzAN
+BgNVBAgMBmZoamt5ZTERMA8GA1UEBwwIenhjbmhnZHMxEDAOBgNVBAoMB3dlamR2
+bmIxEjAQBgNVBAsMCXNkZmpoeXR1azEQMA4GA1UEAwwHZGZzZ2pkeTCBnzANBgkq
+hkiG9w0BAQEFAAOBjQAwgYkCgYEAoAC7BnrPBodPgmlq42eSTLdX+WllolI+9ruO
+LPsrLTGTfkK3ipjvf3U7P6UPGEmzWOvR1HjFfFdNclVpTx9ZDv+v5gk5vRXM0zVY
+otx8mniAi2aH0L9kM9hJa63/zkBdGWNdHWAGEFicOPDaL7jING3XZZWpgkVIahjD
+R1su6vcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAAQoCCph0+nUqavYufoBrSm/Df
+Wjoa6LAQmycHRDMK5XFJxDj5ljF0GtF3GS7Y6AeWsl97QajxLwZZPbno/Ik94Ej3
+qrV+ohmFpIlz0G1+5nTau6aQjFWqs2OCu7JSxK7Ob1576kCTxIQcG3a7GsKvkKxI
+ieX9sca49MV70JUiew==
+-----END CERTIFICATE-----

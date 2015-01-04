@@ -1,0 +1,37 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 11825012019740377946 (0xa41ae1c7c559835a)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=dsafgasfdh, L=dscsdrretwyr, O=sdaffgsdfh, OU=sdfdghjdf, CN=sdfhrty
+        Validity
+            Not Before: Dec 19 15:14:21 2014 GMT
+            Not After : Dec 14 15:14:21 2015 GMT
+        Subject: C=AU, ST=dsafgasfdh, L=dscsdrretwyr, O=sdaffgsdfh, OU=sdfdghjdf, CN=sdfhrty
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (512 bit)
+                Modulus:
+                    00:d0:ff:1e:e3:45:7d:d1:d2:26:2d:e7:91:b1:99:
+                    f7:93:99:fe:c3:be:0e:b4:79:f6:55:58:4b:1d:92:
+                    24:5d:12:c0:2c:6e:2e:c2:f8:b2:85:5f:42:2d:ce:
+                    da:10:6f:fc:5d:eb:ad:a3:39:0c:0c:6a:59:08:ab:
+                    07:bb:56:fb:e9
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         01:7e:4a:1c:5a:34:2d:09:5b:9b:2e:9c:a1:d3:71:1b:e6:96:
+         24:67:e9:8d:cd:e1:02:42:53:aa:25:19:e9:ca:49:55:74:38:
+         dc:a4:14:01:ad:70:84:52:cc:c9:4b:63:d6:7d:93:ad:84:02:
+         4e:7f:9a:01:03:72:65:41:de:77
+-----BEGIN CERTIFICATE-----
+MIIB2jCCAYQCCQCkGuHHxVmDWjANBgkqhkiG9w0BAQUFADB0MQswCQYDVQQGEwJB
+VTETMBEGA1UECBMKZHNhZmdhc2ZkaDEVMBMGA1UEBxMMZHNjc2RycmV0d3lyMRMw
+EQYDVQQKEwpzZGFmZmdzZGZoMRIwEAYDVQQLEwlzZGZkZ2hqZGYxEDAOBgNVBAMT
+B3NkZmhydHkwHhcNMTQxMjE5MTUxNDIxWhcNMTUxMjE0MTUxNDIxWjB0MQswCQYD
+VQQGEwJBVTETMBEGA1UECBMKZHNhZmdhc2ZkaDEVMBMGA1UEBxMMZHNjc2RycmV0
+d3lyMRMwEQYDVQQKEwpzZGFmZmdzZGZoMRIwEAYDVQQLEwlzZGZkZ2hqZGYxEDAO
+BgNVBAMTB3NkZmhydHkwXDANBgkqhkiG9w0BAQEFAANLADBIAkEA0P8e40V90dIm
+LeeRsZn3k5n+w74OtHn2VVhLHZIkXRLALG4uwviyhV9CLc7aEG/8XeutozkMDGpZ
+CKsHu1b76QIDAQABMA0GCSqGSIb3DQEBBQUAA0EAAX5KHFo0LQlbmy6codNxG+aW
+JGfpjc3hAkJTqiUZ6cpJVXQ43KQUAa1whFLMyUtj1n2TrYQCTn+aAQNyZUHedw==
+-----END CERTIFICATE-----

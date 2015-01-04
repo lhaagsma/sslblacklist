@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 12633831480467484225 (0xaf5462cb69696e41)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=wsdvdfghfgh, L=gdrtyrthtdhyt, O=g54tytrhgfghd, OU=g54grthdthfgh, CN=gtryheyjhgf/emailAddress=vgrg@ssg.com
+        Validity
+            Not Before: Nov 25 09:08:20 2014 GMT
+            Not After : Nov 20 09:08:20 2015 GMT
+        Subject: C=AU, ST=wsdvdfghfgh, L=gdrtyrthtdhyt, O=g54tytrhgfghd, OU=g54grthdthfgh, CN=gtryheyjhgf/emailAddress=vgrg@ssg.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:e2:bf:1c:93:f5:d7:cf:3e:5d:5d:22:a1:c9:59:
+                    d0:1e:5d:8e:17:de:43:9e:40:6c:f5:cb:94:67:fb:
+                    9b:21:98:b2:2f:73:45:8c:50:09:16:1b:93:7a:46:
+                    59:dc:5d:15:2f:ad:55:36:03:42:cd:aa:42:4b:d9:
+                    36:6f:d0:7a:ae:df:82:22:fc:5b:f7:25:e9:a7:ee:
+                    57:72:d7:36:17:9b:5c:e0:ed:2a:ca:11:87:85:ec:
+                    be:fb:b3:c7:5e:09:c3:83:81:98:67:0f:43:33:b4:
+                    7c:2e:76:51:7b:0a:80:d3:80:c4:86:7d:c1:b3:51:
+                    9d:24:12:09:ca:a5:cf:ac:c5
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         2d:b5:33:6f:60:2f:a0:9f:7e:d3:dc:b0:b5:f2:a6:58:fc:03:
+         35:48:c9:63:9a:4d:2a:e4:41:28:49:f9:8e:18:17:cd:3b:09:
+         d7:bc:a1:7c:0d:c5:a2:43:8b:72:bc:29:8b:c2:37:17:30:e2:
+         2c:b8:4e:7c:db:49:14:67:88:3d:c6:e2:d6:87:91:f2:54:ad:
+         7b:e6:11:77:e1:eb:5c:a8:ed:77:a2:8f:4e:f1:e8:ea:b1:32:
+         52:5f:68:2a:a5:1b:5e:eb:3e:0d:81:76:c9:8e:cc:ea:32:ea:
+         71:a3:b6:87:16:e0:ff:f5:12:cc:11:d6:87:a5:0b:16:1b:3e:
+         a5:f9
+-----BEGIN CERTIFICATE-----
+MIICtTCCAh4CCQCvVGLLaWluQTANBgkqhkiG9w0BAQUFADCBnjELMAkGA1UEBhMC
+QVUxFDASBgNVBAgMC3dzZHZkZmdoZmdoMRYwFAYDVQQHDA1nZHJ0eXJ0aHRkaHl0
+MRYwFAYDVQQKDA1nNTR0eXRyaGdmZ2hkMRYwFAYDVQQLDA1nNTRncnRoZHRoZmdo
+MRQwEgYDVQQDDAtndHJ5aGV5amhnZjEbMBkGCSqGSIb3DQEJARYMdmdyZ0Bzc2cu
+Y29tMB4XDTE0MTEyNTA5MDgyMFoXDTE1MTEyMDA5MDgyMFowgZ4xCzAJBgNVBAYT
+AkFVMRQwEgYDVQQIDAt3c2R2ZGZnaGZnaDEWMBQGA1UEBwwNZ2RydHlydGh0ZGh5
+dDEWMBQGA1UECgwNZzU0dHl0cmhnZmdoZDEWMBQGA1UECwwNZzU0Z3J0aGR0aGZn
+aDEUMBIGA1UEAwwLZ3RyeWhleWpoZ2YxGzAZBgkqhkiG9w0BCQEWDHZncmdAc3Nn
+LmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4r8ck/XXzz5dXSKhyVnQ
+Hl2OF95DnkBs9cuUZ/ubIZiyL3NFjFAJFhuTekZZ3F0VL61VNgNCzapCS9k2b9B6
+rt+CIvxb9yXpp+5Xctc2F5tc4O0qyhGHhey++7PHXgnDg4GYZw9DM7R8LnZRewqA
+04DEhn3Bs1GdJBIJyqXPrMUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAttTNvYC+g
+n37T3LC18qZY/AM1SMljmk0q5EEoSfmOGBfNOwnXvKF8DcWiQ4tyvCmLwjcXMOIs
+uE5820kUZ4g9xuLWh5HyVK175hF34etcqO13oo9O8ejqsTJSX2gqpRte6z4NgXbJ
+jszqMupxo7aHFuD/9RLMEdaHpQsWGz6l+Q==
+-----END CERTIFICATE-----
