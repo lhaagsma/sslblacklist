@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 15104599389195715050 (0xd19e511deb97c1ea)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Someprovince, L=Sometown, O=none, OU=none, CN=localhost/emailAddress=webmaster@localhost
+        Validity
+            Not Before: Oct  9 09:04:54 2014 GMT
+            Not After : Feb 23 09:04:54 2042 GMT
+        Subject: C=US, ST=Someprovince, L=Sometown, O=none, OU=none, CN=localhost/emailAddress=webmaster@localhost
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b3:f4:e1:4e:46:49:4d:55:c9:47:68:6c:c5:39:
+                    ed:61:28:88:ab:ae:ca:51:75:3c:67:d2:de:e7:30:
+                    11:9e:17:b8:28:5a:2d:3b:42:70:19:6a:62:72:5a:
+                    ea:f6:80:71:79:54:56:ec:73:b3:1f:69:cc:2e:1d:
+                    e4:81:69:b9:5b:68:76:bd:c2:ca:84:3e:ac:e9:20:
+                    9e:4e:f7:3b:3e:82:b8:d7:2a:68:d9:1d:e2:05:eb:
+                    27:d2:4a:4c:4d:ed:ea:bd:65:15:51:44:58:bd:3c:
+                    98:9a:18:f3:82:92:84:ea:d1:35:cc:47:0a:8d:b6:
+                    a2:58:e2:71:97:ab:a8:59:03
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         7a:2b:51:44:57:f9:13:77:df:8b:fd:c2:be:04:42:52:91:56:
+         76:9f:a7:d2:13:70:b3:13:fb:69:fe:a1:6e:91:7c:8a:71:33:
+         aa:56:0c:2f:c2:75:b2:9d:29:94:40:51:a4:6b:7d:a6:97:b9:
+         6a:97:f4:d6:93:91:c1:74:b7:e5:04:35:35:7a:1b:44:58:7a:
+         d9:ab:7c:96:98:56:78:8c:95:83:ad:84:de:d7:f8:c8:cb:d3:
+         63:bf:60:60:45:ed:d1:1c:86:ff:69:11:3a:16:6a:c5:e5:3e:
+         b9:b5:29:20:ab:f5:b6:8b:12:3f:2d:69:bd:0b:ac:4b:f8:f8:
+         79:e9
+-----BEGIN CERTIFICATE-----
+MIICkzCCAfwCCQDRnlEd65fB6jANBgkqhkiG9w0BAQUFADCBjTELMAkGA1UEBhMC
+VVMxFTATBgNVBAgTDFNvbWVwcm92aW5jZTERMA8GA1UEBxMIU29tZXRvd24xDTAL
+BgNVBAoTBG5vbmUxDTALBgNVBAsTBG5vbmUxEjAQBgNVBAMTCWxvY2FsaG9zdDEi
+MCAGCSqGSIb3DQEJARYTd2VibWFzdGVyQGxvY2FsaG9zdDAeFw0xNDEwMDkwOTA0
+NTRaFw00MjAyMjMwOTA0NTRaMIGNMQswCQYDVQQGEwJVUzEVMBMGA1UECBMMU29t
+ZXByb3ZpbmNlMREwDwYDVQQHEwhTb21ldG93bjENMAsGA1UEChMEbm9uZTENMAsG
+A1UECxMEbm9uZTESMBAGA1UEAxMJbG9jYWxob3N0MSIwIAYJKoZIhvcNAQkBFhN3
+ZWJtYXN0ZXJAbG9jYWxob3N0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCz
+9OFORklNVclHaGzFOe1hKIirrspRdTxn0t7nMBGeF7goWi07QnAZamJyWur2gHF5
+VFbsc7MfacwuHeSBablbaHa9wsqEPqzpIJ5O9zs+grjXKmjZHeIF6yfSSkxN7eq9
+ZRVRRFi9PJiaGPOCkoTq0TXMRwqNtqJY4nGXq6hZAwIDAQABMA0GCSqGSIb3DQEB
+BQUAA4GBAHorUURX+RN334v9wr4EQlKRVnafp9ITcLMT+2n+oW6RfIpxM6pWDC/C
+dbKdKZRAUaRrfaaXuWqX9NaTkcF0t+UENTV6G0RYetmrfJaYVniMlYOthN7X+MjL
+02O/YGBF7dEchv9pEToWasXlPrm1KSCr9baLEj8tab0LrEv4+Hnp
+-----END CERTIFICATE-----
